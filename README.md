@@ -9,13 +9,21 @@
 ## Windows
 
 ### 音频
-- [Foobar2000](http://www.foobar2000.org/) - Windows 版的免费音频播放器，支持各种各样的音频格式，并且有很多很酷的特色功能。（唯一能正常播放我母盘歌曲的软件）
+- [Foobar2000](http://www.foobar2000.org/) - Windows 版的免费音频播放器，支持各种各样的音频格式，并且有很多很酷的特色功能。（唯一能正常播放我母盘歌曲的软件）![Freeware][Freeware Icon]
+- [网易云音乐](https://music.163.com/) - 日常听歌用，版权问题曲库锐减。![Freeware][Freeware Icon]
 
 ### 视频
 - [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。（据说上了 ffmpeg 黑名单）
 
 ### 压缩
 - [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源 Windows 实用程序。完美支持 7z，ZIP，GZIP，BZIP2 和 TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon] （更多用来命令行批量解压）
+- https://goimg.io/ - 有损压缩图片，效果还可以。
+
+### 数据恢复
+- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件, 主要设计用于帮助恢复丢失的分区和/或使非引导磁盘重新启动。
+
+### 聊天
+- [WeChat](https://weixin.qq.com/) - 微信。![Freeware][Freeware Icon]
 
 ### 个性化
 - [MacType](https://github.com/snowie2000/mactype) - Windows 字体渲染工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] （虽然总是和其他软件冲突但是就是离不开它。）
@@ -29,6 +37,27 @@
 
 ### 电子邮件
 - Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。
+
+### 图片
+- [ShareX](https://getsharex.com) - 截图上传工具。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon] （好用，并且设置项非常多，可以轻松自己配置）
+- [Paint.net](http://www.getpaint.net/index.html) - 你怎么能忍受没有paint.net的生活？ ![Freeware][Freeware Icon]（就是一个画图）\
+
+### 生产力工具
+- [AutoHotkey](https://autohotkey.com/) - Windows平台的终极自动化脚本语言。 [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon] （重度依赖）
+- [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。![Freeware][Freeware Icon]（重度依赖）
+- [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon]（曾经依赖）
+- [Listary](http://www.listary.com/) - 让你的文件不离指尖。 独特的搜索实用程序。
+- [Scoop](https://github.com/lukesampson/scoop) - Windows 的命令行安装程序。 [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
+
+### 终端
+- [ConEmu](https://conemu.github.io/) - Windows下的带tab的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
+- [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。(重度依赖）
+
+### 在线存储
+
+- [Google Drive](https://www.google.com/drive/download/) - 深深融入Google生态系统的云存储解决方案。（用来备份）
+
+
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
