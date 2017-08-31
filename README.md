@@ -31,6 +31,9 @@
 - [ConEmu](https://conemu.github.io/) - Windows 下的带 tab 的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。（重度依赖）
 
+### 安全
+- [火绒](http://www.huorong.cn/) - 火绒安全软件。![Freeware][Freeware Icon] （很强大）
+
 ### 编辑器
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim 是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
@@ -46,6 +49,13 @@
 ### 个性化
 - [MacType](https://github.com/snowie2000/mactype) - Windows 字体渲染工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] （虽然总是和其他软件冲突但是就是离不开它。）
 - [CHKen Tray Clock](http://www.chken.com/kClock.html) - Windows 任务栏时间增强工具。 ![Freeware][Freeware Icon](win10 一周年更新以后需要删除任务栏通知才能继续用，重度依赖！)
+
+### 实用工具
+- [Windows 终端命令的 A-Z](http://ss64.com/nt/)
+- [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好。
+- [Dism++](https://www.chuyu.me/zh-Hans/) - 微软 Dism 的 GUI 实现，系统压缩、更新管理等等。 ![Freeware][Freeware Icon]
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间占用图像化。 ![Freeware][Freeware Icon]
+- [ScreenToGif](http://www.screentogif.com/) - gif 格式录屏工具，轻量绿色开源。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 
 ### 电子邮件
 - Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。
@@ -74,6 +84,7 @@
 - [Visual Studio](https://www.visualstudio.com/vs/) - 微软官方的 IDE，通过插件可支持大量编程语言。
 - [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE , 基于 IntelliJ 的 IDEA。 [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
 
+**[⬆ 回到顶部](#Windows)**
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
