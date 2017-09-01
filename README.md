@@ -6,6 +6,8 @@
 
 > *标有 ![Open-Source Software][OSS Icon] 的项目是开源软件。 标有 ![Freeware][Freeware Icon] 的项目是免费软件。*
 
+> 重要准则：**下载即用，无需注册**
+
 ## Windows
 
 ### 音频
@@ -25,7 +27,10 @@
 
 ### 图片
 - [ShareX](https://getsharex.com) - 截图上传工具。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon] （好用，并且设置项非常多，可以轻松自己配置）
-- [Paint.net](http://www.getpaint.net/index.html) - 你怎么能忍受没有 paint.net 的生活？ ![Freeware][Freeware Icon](就是一个画图)\
+- [Paint.net](http://www.getpaint.net/index.html) - 你怎么能忍受没有 paint.net 的生活？ ![Freeware][Freeware Icon] （就是一个画图）
+- [HoneyView](http://www.bandisoft.com/honeyview/) - 图片查看工具。
+- [ImageMagick](https://www.imagemagick.org/script/index.php) - 命令行处理工具。
+- [ScreenToGif](http://www.screentogif.com/) - gif 格式录屏工具，轻量绿色开源。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 
 ### 终端
 - [ConEmu](https://conemu.github.io/) - Windows 下的带 tab 的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
@@ -38,6 +43,7 @@
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim 是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - 高级文本编辑器。
+- [EmEditor](https://www.emeditor.com/) - 主要用于编辑 16 进制文件和超大文件。
 
 ### 浏览器
 - [CentBrowser](https://www.centbrowser.com/) - Chromium 内核，可以完全替代 Chrome——包括各种插件也能用——的可以关闭 Direct Writer 方便 MacType 渲染的浏览器。
@@ -55,7 +61,21 @@
 - [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好。
 - [Dism++](https://www.chuyu.me/zh-Hans/) - 微软 Dism 的 GUI 实现，系统压缩、更新管理等等。 ![Freeware][Freeware Icon]
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间占用图像化。 ![Freeware][Freeware Icon]
-- [ScreenToGif](http://www.screentogif.com/) - gif 格式录屏工具，轻量绿色开源。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
+- [QuickLook](http://pooi.moe/QuickLook/) - 类似 Mac 的空格快速预览的功能。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Locale Emulator](http://pooi.moe/Locale-Emulator/) - 乱码修复工具。常用于日语游戏乱码问题等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [AnyDesk](https://anydesk.com/remote-desktop) - 远程桌面。 ![Freeware][Freeware Icon]
+- [NirLauncher](http://launcher.nirsoft.net/) - Nir 一系列软件。
+- [QTranslate](D:[user\user\putty\putty.exe) - Windows 下的翻译工具。 ![Freeware][Freeware Icon]
+- [QRcode](https://github.com/sylnsfar/qrcode) - QRcode + 图片。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [ManicTime](https://www.manictime.com/) - 跟踪记录每个软件上用的时间。
+
+### 网络工具
+- [ShadowSocks](https://shadowsocks.org/) - 代理。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Proxifier](http://proxifier.com/) - 让其他软件也能用代理。
+- [Wireshark](https://www.wireshark.org/) - 一个网络协议分析工具。 [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
+- [Caddy](https://caddyserver.com/) - 轻量级支持 HTTP/2 的服务器。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [IDM](http://internetdownloadmanager.com/) - 下载器。
+- [NetWorx](https://www.softperfect.com/products/networx/) - 流量监控工具。监控流量、连接等等，包括忽略某些流量的功能（忽略内网、IPv6）。
 
 ### 电子邮件
 - Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。
@@ -68,7 +88,6 @@
 
 ### 开发者工具
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - 功能强大的任务管理工具 ![Freeware][Freeware Icon]
-- [Wireshark](https://www.wireshark.org/) - 一个网络协议分析工具。 [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
 - [SourceTree](https://www.sourcetreeapp.com/) - 一个免费的 Git & Mercurial 客户端。
 - [RazorSQL](http://www.razorsql.com/) - 供数据库管理员使用的 SQLite 数据库管理软件
 - [GitKraken](https://www.gitkraken.com/) - 优美，跨平台的 Git 客户端 ![Freeware][Freeware Icon]
@@ -84,7 +103,8 @@
 - [Visual Studio](https://www.visualstudio.com/vs/) - 微软官方的 IDE，通过插件可支持大量编程语言。
 - [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE , 基于 IntelliJ 的 IDEA。 [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
 
-**[⬆ 回到顶部](#Windows)**
+
+**[⬆ 回到顶部](#windows)**
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
