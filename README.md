@@ -16,6 +16,8 @@
 
 ### 视频
 - [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。（据说上了 ffmpeg 黑名单）
+- [Dandanplay](http://www.dandanplay.com/) - 本地视频在线弹幕播放器。 ![Freeware][Freeware Icon]
+- [zogvm](https://github.com/zogvm/zogvm) - 本地视频整理工具 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ### 压缩
 - [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源 Windows 实用程序。完美支持 7z，ZIP，GZIP，BZIP2 和 TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon] （更多用来命令行批量解压）
@@ -28,7 +30,9 @@
 ### 图片
 - [ShareX](https://getsharex.com) - 截图上传工具。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon] （好用，并且设置项非常多，可以轻松自己配置）
 - [Paint.net](http://www.getpaint.net/index.html) - 你怎么能忍受没有 paint.net 的生活？ ![Freeware][Freeware Icon] （就是一个画图）
-- [HoneyView](http://www.bandisoft.com/honeyview/) - 图片查看工具。
+- ~~[HoneyView](http://www.bandisoft.com/honeyview/) - 图片查看工具。~~ 卡卡的
+- [nomacs](https://nomacs.org/) - 图片查看工具。包括编辑器，不卡！ ![Freeware][Freeware Icon]
+- [IrfanView](http://www.irfanview.com/) - 图片查看工具。曾经用的。 ![Freeware][Freeware Icon]
 - [ImageMagick](https://www.imagemagick.org/script/index.php) - 命令行处理工具。
 - [ScreenToGif](http://www.screentogif.com/) - gif 格式录屏工具，轻量绿色开源。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 
@@ -39,6 +43,10 @@
 ### 安全
 - [火绒](http://www.huorong.cn/) - 火绒安全软件。![Freeware][Freeware Icon] （很强大）
 
+### 文档
+- [Microsoft Office](http://www.office.com) - 微软自己的生产力套件。（OneNote 最强！）
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR 阅读器。 ![Freeware][Freeware Icon] （轻量好用！还可以看图片压缩包——漫画）
+
 ### 编辑器
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim 是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
@@ -48,13 +56,11 @@
 ### 浏览器
 - [CentBrowser](https://www.centbrowser.com/) - Chromium 内核，可以完全替代 Chrome——包括各种插件也能用——的可以关闭 Direct Writer 方便 MacType 渲染的浏览器。
 
-### 文档
-- [Microsoft Office](http://www.office.com) - 微软自己的生产力套件。（OneNote 最强！）
-- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR 阅读器。 ![Freeware][Freeware Icon] （轻量好用！还可以看图片压缩包——漫画）
-
 ### 个性化
 - [MacType](https://github.com/snowie2000/mactype) - Windows 字体渲染工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] （虽然总是和其他软件冲突但是就是离不开它。）
 - [CHKen Tray Clock](http://www.chken.com/kClock.html) - Windows 任务栏时间增强工具。 ![Freeware][Freeware Icon](win10 一周年更新以后需要删除任务栏通知才能继续用，重度依赖！)
+- [Rainmeter](https://www.rainmeter.net/) - 个性化桌面定制工具。曾经很喜欢，现在不用了。
+- [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - 将实时卫星云图作为桌面壁纸。
 
 ### 实用工具
 - [Windows 终端命令的 A-Z](http://ss64.com/nt/)
@@ -65,16 +71,19 @@
 - [Locale Emulator](http://pooi.moe/Locale-Emulator/) - 乱码修复工具。常用于日语游戏乱码问题等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [AnyDesk](https://anydesk.com/remote-desktop) - 远程桌面。 ![Freeware][Freeware Icon]
 - [NirLauncher](http://launcher.nirsoft.net/) - Nir 一系列软件。
-- [QTranslate](D:[user\user\putty\putty.exe) - Windows 下的翻译工具。 ![Freeware][Freeware Icon]
+- ~~[QTranslate](https://quest-app.appspot.com/) - Windows 下的翻译工具。 ![Freeware][Freeware Icon]~~
+- [Lingoes](http://www.lingoes.cn/) - 灵格斯词典
 - [QRcode](https://github.com/sylnsfar/qrcode) - QRcode + 图片。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [ManicTime](https://www.manictime.com/) - 跟踪记录每个软件上用的时间。
+- ~~[ManicTime](https://www.manictime.com/) - 跟踪记录每个软件上用的时间。~~
+- [番茄盒子](http://tomatobox.cn/) - 一款免费的自我管理软件，包括目标管理、番茄工作、上网控制、时间记录、总结反思等功能。唯一的缺点就是有点卡。 ![Freeware][Freeware Icon]
 
 ### 网络工具
 - [ShadowSocks](https://shadowsocks.org/) - 代理。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Proxifier](http://proxifier.com/) - 让其他软件也能用代理。
 - [Wireshark](https://www.wireshark.org/) - 一个网络协议分析工具。 [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
 - [Caddy](https://caddyserver.com/) - 轻量级支持 HTTP/2 的服务器。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [IDM](http://internetdownloadmanager.com/) - 下载器。
+- ~~[IDM](http://internetdownloadmanager.com/) - 下载器。~~
+- [EagleGet](http://www.eagleget.com/) - 免费下载器
 - [NetWorx](https://www.softperfect.com/products/networx/) - 流量监控工具。监控流量、连接等等，包括忽略某些流量的功能（忽略内网、IPv6）。
 
 ### 电子邮件
@@ -91,6 +100,9 @@
 - [SourceTree](https://www.sourcetreeapp.com/) - 一个免费的 Git & Mercurial 客户端。
 - [RazorSQL](http://www.razorsql.com/) - 供数据库管理员使用的 SQLite 数据库管理软件
 - [GitKraken](https://www.gitkraken.com/) - 优美，跨平台的 Git 客户端 ![Freeware][Freeware Icon]
+- [Zeal](https://zealdocs.org/) - 离线文档查看器。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Anaconda](https://www.anaconda.com/) - Python 集成环境。 ![Freeware][Freeware Icon]
+- [NSIS](http://nsis.sourceforge.net/Download) - Windows 打包安装包工具。 ![Freeware][Freeware Icon]
 
 ### 生产力工具
 - [AutoHotkey](https://autohotkey.com/) - Windows 平台的终极自动化脚本语言。 [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon] （重度依赖）
@@ -103,6 +115,11 @@
 - [Visual Studio](https://www.visualstudio.com/vs/) - 微软官方的 IDE，通过插件可支持大量编程语言。
 - [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE , 基于 IntelliJ 的 IDEA。 [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
 
+## Linux
+
+## Chrome
+
+## 配置
 
 **[⬆ 回到顶部](#windows)**
 
