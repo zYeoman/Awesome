@@ -39,6 +39,7 @@
 ### 终端
 - [ConEmu](https://conemu.github.io/) - Windows 下的带 tab 的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。（重度依赖）
+- [AutoJump](https://github.com/wting/autojump) - 命令行快速跳转
 
 ### 安全
 - [火绒](http://www.huorong.cn/) - 火绒安全软件。![Freeware][Freeware Icon] （很强大）
@@ -52,6 +53,7 @@
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - 高级文本编辑器。
 - [EmEditor](https://www.emeditor.com/) - 主要用于编辑 16 进制文件和超大文件。
+- [Notion](https://www.notion.so/) - A unified & collaborative workspace for your notes, wikis, and tasks.
 
 ### 浏览器
 - [CentBrowser](https://www.centbrowser.com/) - Chromium 内核，可以完全替代 Chrome——包括各种插件也能用——的可以关闭 Direct Writer 方便 MacType 渲染的浏览器。
@@ -66,16 +68,24 @@
 - [Windows 终端命令的 A-Z](http://ss64.com/nt/)
 - [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好。
 - [Dism++](https://www.chuyu.me/zh-Hans/) - 微软 Dism 的 GUI 实现，系统压缩、更新管理等等。 ![Freeware][Freeware Icon]
-- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间占用图像化。 ![Freeware][Freeware Icon]
 - [QuickLook](http://pooi.moe/QuickLook/) - 类似 Mac 的空格快速预览的功能。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Locale Emulator](http://pooi.moe/Locale-Emulator/) - 乱码修复工具。常用于日语游戏乱码问题等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [AnyDesk](https://anydesk.com/remote-desktop) - 远程桌面。 ![Freeware][Freeware Icon]
 - [NirLauncher](http://launcher.nirsoft.net/) - Nir 一系列软件。
 - ~~[QTranslate](https://quest-app.appspot.com/) - Windows 下的翻译工具。 ![Freeware][Freeware Icon]~~
 - [Lingoes](http://www.lingoes.cn/) - 灵格斯词典
 - [QRcode](https://github.com/sylnsfar/qrcode) - QRcode + 图片。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - ~~[ManicTime](https://www.manictime.com/) - 跟踪记录每个软件上用的时间。~~
 - [番茄盒子](http://tomatobox.cn/) - 一款免费的自我管理软件，包括目标管理、番茄工作、上网控制、时间记录、总结反思等功能。唯一的缺点就是有点卡。 ![Freeware][Freeware Icon]
+- [Anki](https://apps.ankiweb.net/) - 卡片式背诵工具，可以用来背诵很多东西。 ![Freeware][Freeware Icon]
+- [gogs](https://gogs.io/) - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+
+### 单文件工具
+- [virgo](https://github.com/henkman/virgo) - 虚拟桌面软件，一个 C 文件 300 行代码~。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] （感觉用 AHK 也能实现，原理就是切换桌面时隐藏上一个桌面的窗口，再把这个桌面的窗口显示出来）
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间占用图像化。 ![Freeware][Freeware Icon]
+- [AnyDesk](https://anydesk.com/remote-desktop) - 远程桌面。 ![Freeware][Freeware Icon]
+- [park cursor aside](https://sites.google.com/site/parkcursoraside/) - 输入的时候将鼠标移开。 ![Freeware][Freeware Icon](运行的时候会产生一些文件)
+- [GeekUninstaller](https://geekuninstaller.com) - Geek 卸载器。
+- [JComicDownloader](https://sites.google.com/site/jcomicdownloader/) - 使用 Java 写的漫画下载工具。强！ ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ### 网络工具
 - [ShadowSocks](https://shadowsocks.org/) - 代理。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
