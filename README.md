@@ -35,6 +35,7 @@
 - [IrfanView](http://www.irfanview.com/) - 图片查看工具。曾经用的。 ![Freeware][Freeware Icon]
 - [ImageMagick](https://www.imagemagick.org/script/index.php) - 命令行处理工具。
 - [ScreenToGif](http://www.screentogif.com/) - gif 格式录屏工具，轻量绿色开源。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
+- [ComicRack](http://comicrack.cyolito.com/software/windows/comicrack-for-windows) - Windows 漫画阅读器。
 
 ### 终端
 - [ConEmu](https://conemu.github.io/) - Windows 下的带 tab 的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
@@ -65,7 +66,6 @@
 - [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - 将实时卫星云图作为桌面壁纸。
 
 ### 实用工具
-- [Windows 终端命令的 A-Z](http://ss64.com/nt/)
 - [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好。
 - [Dism++](https://www.chuyu.me/zh-Hans/) - 微软 Dism 的 GUI 实现，系统压缩、更新管理等等。 ![Freeware][Freeware Icon]
 - [QuickLook](http://pooi.moe/QuickLook/) - 类似 Mac 的空格快速预览的功能。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -86,6 +86,7 @@
 - [park cursor aside](https://sites.google.com/site/parkcursoraside/) - 输入的时候将鼠标移开。 ![Freeware][Freeware Icon](运行的时候会产生一些文件)
 - [GeekUninstaller](https://geekuninstaller.com) - Geek 卸载器。
 - [JComicDownloader](https://sites.google.com/site/jcomicdownloader/) - 使用 Java 写的漫画下载工具。强！ ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [NirCmd](http://www.nirsoft.net/utils/nircmd.html) - 命令行进行朗读、音量控制等多种命令。
 
 ### 网络工具
 - [ShadowSocks](https://shadowsocks.org/) - 代理。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -97,7 +98,8 @@
 - [NetWorx](https://www.softperfect.com/products/networx/) - 流量监控工具。监控流量、连接等等，包括忽略某些流量的功能（忽略内网、IPv6）。
 
 ### 电子邮件
-- Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。
+- ~~Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。~~
+- [Foxmail](http://www.foxmail.com/) - 微软的东西都是看上去挺好，用起来体验极差。最后还是用 Foxmail 好！
 
 ### 数据恢复
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件，主要设计用于帮助恢复丢失的分区和 / 或使非引导磁盘重新启动。
@@ -128,6 +130,41 @@
 ## Linux
 
 ## Chrome
+
+### 插件
+- [OneTab](https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall) - 拖延症的福音，关闭标签页并将标签地址保存下来。（然后越来越多待办标签页）
+- [Pocket](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj) - 和 OneTab 类似功能，只不过可以同步。
+- [Proxy SwitchOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) - 代理工具。
+- [Google 学术搜索按钮](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn) - Google 学术搜索
+- [微信弹幕](http://aidistan.github.io/browser-weixin-danmu/) - 将网页微信消息变为浏览器页面弹幕。
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - 整个页面截屏成图片。
+- [Google 输入工具](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - 网页输入法。
+- [Stylish](https://userstyles.org/) - 定制网页 CSS。
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - 浏览器脚本管理工具。
+- [Library Sniffer for Google Chrome](https://chrome.google.com/webstore/detail/library-sniffer-for-googl/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) - 显示网页使用了什么 JS 库
+- [Google 文档](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - 使用 Chrome 查看 doc、ppt、xls。
+- [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba) - 按照标题层级自动生成 TOC。
+- [Clutter Free](https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf) - 删除重复标签页。
+- [Mainichi](https://chrome.google.com/webstore/detail/dfekdjmdikicceaiokcmmchenpilglhn) - 设置新标签页为单词卡片。
+- [Fatkun](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf) - 图片批量下载。
+- [二箱](https://chrome.google.com/webstore/detail/kidibbfcblfbbafhnlanccjjdehoahep) - 以图搜图工具。
+- [草榴游客神器](https://chrome.google.com/webstore/detail/blofeijggklkkamdbgmogbhfcmadnnne) - 如名字，支持番号、人名搜索
+- [bilibili 助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh) - bilibili 助手
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - 使用 vim 方式操作浏览器。
+- [Octotree](https://github.com/buunguyen/octotree) - Github 显示文件列表。
+- [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Github 增强。
+- [EnhancedSteam](http://www.enhancedsteam.com/) - Steam 增强工具，包括历史价格、配置要求等。
+- [Anki 划词制卡助手](https://chrome.google.com/webstore/detail/anki-%E5%88%92%E8%AF%8D%E5%88%B6%E5%8D%A1%E5%8A%A9%E6%89%8B/ajencmdaamfnkgilhpgkepfhfgjfplnn) - 主要用来翻译单词。
+- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告过滤。
+- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - 语法检查等写作工具。
+- [Wikiwand](http://www.wikiwand.com/) - Wikipedia 现代化！
+- [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd) - 显示页面的 RSS 订阅地址。
+
+### Tampermonkey
+
+### 链接
+- [Windows 终端命令的 A-Z](http://ss64.com/nt/)
+- [十分钟邮箱](https://10minutemail.net/)
 
 ## 配置
 
