@@ -54,7 +54,7 @@
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - 高级文本编辑器。
 - [EmEditor](https://www.emeditor.com/) - 主要用于编辑 16 进制文件和超大文件。
-- [Notion](https://www.notion.so/) - A unified & collaborative workspace for your notes, wikis, and tasks.
+- [Notion](https://www.notion.so/) - A unified & collaborative workspace for your notes, wikis, and tasks. 总的来说，华而不实。
 
 ### 浏览器
 - [CentBrowser](https://www.centbrowser.com/) - Chromium 内核，可以完全替代 Chrome——包括各种插件也能用——的可以关闭 Direct Writer 方便 MacType 渲染的浏览器。
@@ -161,6 +161,13 @@
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd) - 显示页面的 RSS 订阅地址。
 
 ### Tampermonkey
+- [AntiAdware](https://greasyfork.org/scripts/4294-antiadware/code/AntiAdware.user.js) - 避免下载到广告软件
+- [bilibili plus bilibilijj](https://greasyfork.org/scripts/26941-bilibili-plus-bilibilijj.user.js) - 在 bilibili 视频添加 bilibilijj 下载链接
+- [Google: Bypass result page redirect](https://greasyfork.org/scripts/14150-google-%E7%BB%95%E8%BF%87%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5%E9%87%8D%E5%AE%9A%E5%90%91/code/Google%EF%BC%9A%E7%BB%95%E8%BF%87%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5%E9%87%8D%E5%AE%9A%E5%90%91.user.js) - google 绕过结果网页链接重定向
+- [NGA Auto Pager](https://greasyfork.org/scripts/23009-nga-auto-pager-v2/code/NGA%20Auto%20Pager%20V2.user.js) - NGA 论坛自动翻页
+- [Scroll With Mouse Plus](https://greasyfork.org/scripts/347-scroll-with-mouse-plus/code/Scroll%20with%20Mouse%20Plus.user.js) - 在右侧滚动条用鼠标上下移动代替滚轮
+- [Super preloader plus one](https://greasyfork.org/scripts/10433-super-preloaderplus-one/code/Super_preloaderPlus_one.user.js) - 自动翻页 + 预读
+- [下载一键通](https://greasyfork.org/scripts/2510-%E4%B8%8B%E8%BD%BD%E4%B8%80%E9%94%AE%E9%80%9A/code/%E4%B8%8B%E8%BD%BD%E4%B8%80%E9%94%AE%E9%80%9A.user.js) - 利用 sogou 浏览器下载一键通 API 下载某些需要权限的内容
 
 ### 链接
 - [Windows 终端命令的 A-Z](http://ss64.com/nt/)
