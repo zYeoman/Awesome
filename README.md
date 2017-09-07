@@ -122,7 +122,7 @@
 ### 生产力工具
 - [AutoHotkey](https://autohotkey.com/) - Windows 平台的终极自动化脚本语言。 [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon] （重度依赖）
 - [Everything](http://www.voidtools.com/) - 最快的文件 / 文件夹搜索工具， 通过名称搜索。![Freeware][Freeware Icon](重度依赖)
-- [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon](曾经依赖)
+- ~~[f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon](曾经依赖)~~ Win10 1703 更新已经加入了夜灯模式。
 - [Listary](http://www.listary.com/) - 让你的文件不离指尖。 独特的搜索实用程序。
 - [Scoop](https://github.com/lukesampson/scoop) - Windows 的命令行安装程序。 [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
 
