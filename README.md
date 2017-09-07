@@ -64,6 +64,8 @@
 - [CHKen Tray Clock](http://www.chken.com/kClock.html) - Windows 任务栏时间增强工具。 ![Freeware][Freeware Icon](win10 一周年更新以后需要删除任务栏通知才能继续用，重度依赖！)
 - [Rainmeter](https://www.rainmeter.net/) - 个性化桌面定制工具。曾经很喜欢，现在不用了。
 - [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - 将实时卫星云图作为桌面壁纸。
+- [设置带秒钟的时间](https://tieba.baidu.com/p/5137557374) - 在 Win10 1703 版本设置任务栏时钟带有秒针。
+- [Translucenttb](https://github.com/TranslucentTB/TranslucentTB) - 任务栏透明工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ### 实用工具
 - [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好。
