@@ -89,6 +89,7 @@
 - [GeekUninstaller](https://geekuninstaller.com) - Geek 卸载器。
 - [JComicDownloader](https://sites.google.com/site/jcomicdownloader/) - 使用 Java 写的漫画下载工具。强！ ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [NirCmd](http://www.nirsoft.net/utils/nircmd.html) - 命令行进行朗读、音量控制等多种命令。
+- [zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop) - 为 win10 虚拟桌面功能提供更多快捷键。
 
 ### 网络工具
 - [ShadowSocks](https://shadowsocks.org/) - 代理。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
