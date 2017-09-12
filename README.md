@@ -41,6 +41,7 @@
 - [ConEmu](https://conemu.github.io/) - Windows 下的带 tab 的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。（重度依赖）
 - [AutoJump](https://github.com/wting/autojump) - 命令行快速跳转
+- [clink](https://mridgers.github.io/clink/) - make cmd.exe more bash-like ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ### 安全
 - [火绒](http://www.huorong.cn/) - 火绒安全软件。![Freeware][Freeware Icon] （很强大）
@@ -133,6 +134,52 @@
 
 ## Linux
 
+## Android
+- Chrome、Google 地图、Google 翻译、Google 日历、Google 相册、Google Drive、Google 框架、科学杂志、SnapSeed - Google 全家桶
+- 酷安、pixiv、ofo、Onenote、QQ、微信、Steam、bilibili、钉钉、支付宝
+- 扇贝一套：单词、读书、炼句、听力、新闻。 - 好久没用了。
+- 欢乐书客、起点阅读 - 小说阅读。
+- [爱看阅读](https://www.coolapk.com/apk/com.mdroid.read) - 一个搜索以及自动抓取网页内容的小说阅读器。8 个权限没有广告。
+- Arity - 个人认为安卓最好用的计算器，不花哨。支持复数、支持各种计算以及 2D、3D 绘图，速度很快精度挺高。（真正为需要计算器的人设计的计算器）
+- [ArityMod](https://play.google.com/store/apps/details?id=ua.naiksoftware.aritymod) - GooglePlay 上只能搜到这个，貌似是上面那个的升级版（试用后发现并不好用）。
+- [薄暮微光](https://play.google.com/store/apps/details?id=com.urbandroid.lux) - 屏幕暗化、去蓝光。
+- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) - 背单词等。
+- [彩云天气](https://www.coolapk.com/apk/com.nowcasting.activity) - 精确到分钟的（夏天并不准）天气预报。
+- [发条番茄钟](https://play.google.com/store/apps/details?id=net.phlam.android.clockworktomato) - 番茄时钟。
+- [Github Contributions Widget](https://play.google.com/store/apps/details?id=by.aleks.ghcwidget) - github 贡献桌面小部件。
+- 初音扩展现实相机 - AR 拍照死宅用。
+- [Cimoc](https://github.com/Arachnid-27/Cimoc) - 漫画阅读器。
+- [DayGram](https://play.google.com/store/apps/details?id=net.saltycrackers.daygram) - 每天日记一句话。简洁好用。
+- [Define](https://play.google.com/store/apps/details?id=in.workarounds.define) - 点击翻译。
+- [Elun](https://play.google.com/store/apps/details?id=com.vertumus.elun) - 图标包。
+- [Euclidea](https://play.google.com/store/apps/details?id=com.hil_hk.euclidea) - 几何证明游戏。
+- [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly) - Feedly 客户端。
+- [Flyperlink](https://play.google.com/store/apps/details?id=com.flyperinc.flyperlink) - 悬浮浏览器。
+- [Github Trends](https://play.google.com/store/apps/details?id=com.laowch.githubtrends.play2) - Github 开源项目趋势。
+- [H5 浏览器](https://www.coolapk.com/apk/org.noear.h5) - 日常用轻量级浏览器。
+- [靓晒](https://www.coolapk.com/apk/ooo.oxo.apps.materialize) - 图标生成工具。
+- [TuNet](https://play.google.com/store/apps/details?id=mu.lab.tunet) - 校园网联网工具。
+- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) - 漫画阅读器。
+- [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) - 启动器。
+- [MX 播放器](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - 播放器。
+- [NGA 玩家社区](https://www.coolapk.com/apk/gov.pianzong.androidnga) - NGA 客户端。
+- [Smooth](https://play.google.com/store/apps/details?id=com.mzba.happy.laugh) - 微博客户端。
+- [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm) - 系统清理工具。
+- [生辰](https://www.coolapk.com/apk/com.chanyouji.birth) - 活了多久。
+- [Dash Clock](https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock) - 桌面小部件。
+- [一个木函](https://www.coolapk.com/apk/com.One.WoodenLetter) - 实用小工具集合，以及网页 APP。
+- [一句](https://www.coolapk.com/apk/small.word) - 桌面显示一句话。
+- [影梭](https://play.google.com/store/apps/details?id=com.github.shadowsocks) - 科学上网。
+- [追书神器](https://www.coolapk.com/apk/com.ushaqi.zhuishushenqi) - 看小说。
+- [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) - 压缩文件管理器。
+
+### 游戏
+- [Charles](https://play.google.com/store/apps/details?id=com.crater.charles) - 减压射击小游戏。111% 是个优秀公司，只是广告比较多。
+- [BBTan](https://play.google.com/store/apps/details?id=com.crater.bbtan) - 减压小游戏。
+- [方块游戏](https://www.coolapk.com/game/com.lfeng.brickgame) - 曾经有过的游戏机。（当时都不需要说明书就会玩）
+- [Loop](https://play.google.com/store/apps/details?id=com.balysv.loop) - 给强迫症玩的游戏。
+- [纸牌游戏集合](https://play.google.com/store/apps/details?id=com.anoshenko.android.solitaires) - 250 多纸牌游戏。
+
 ## Chrome
 
 ### 插件
@@ -178,6 +225,37 @@
 - [十分钟邮箱](https://10minutemail.net/)
 
 ## Vim
+
+### 常用命令
+- 跳转：`[[` `]]` `{` `}` `[]` `][`
+- 粘贴：`p` `]p` `[p` `>·]`
+- 查找：`*` `#`
+- `:r!`: 输入外部命令输出
+    - `:r!seq 10`: input 1 2 3 4 5 6 7 8 9 10
+- `Ctrl+o`: insert 模式运行一个 normal 命令。
+- 折叠代码：`zf` `zo` `zc`
+- 查找：`t` `f`
+- 保存会话：`:mksession ~/.session.vim` `vim -S ~/.session.vim`
+- `:wqa`
+- `:copen`
+- `=` `=%` 缩进行，缩进块
+- `%`跳转到当前括号匹配的括号处
+- `;`重复上次 f 查找。
+- `ZZ`=`:wq`（同时没有修改的时候`ZZ`不更改文件的修改时间）
+- `Ctrl+r`: 计算。`Ctrl+r '=2+2' ENTER`
+- `:ab alias tochange`: `:ab asap as soon as possible`
+- `:w !sudo tee %`: sudo write
+- `:diffthis` `:windo diffthis` `:diffoff`
+- `:earlier 1m` `:later`
+- `di[`删除标记内部文字 `dt[`
+- `zz`
+- `Ctrl+o/i`
+
+
+### 文章
+- [为什么这些死脑筋们在用 vi](https://www.oschina.net/news/25882/why-they-are-using-vi)
+- [Use vim as IDE](https://github.com/yangyangwithgnu/use_vim_as_ide)
+- [无插件 Vim 编程技巧](https://coolshell.cn/articles/11312.html)
 
 ### 插件
 
