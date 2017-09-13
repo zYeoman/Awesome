@@ -21,7 +21,7 @@
 
 ### 压缩
 - [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源 Windows 实用程序。完美支持 7z，ZIP，GZIP，BZIP2 和 TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon] （更多用来命令行批量解压）
-- https://goimg.io/ - 有损压缩图片，效果还可以。
+- https://goimg.io/ - 有损压缩图片，效果还可以
 
 ### 聊天
 - [WeChat](https://weixin.qq.com/) - 微信。![Freeware][Freeware Icon]
@@ -33,9 +33,9 @@
 - ~~[HoneyView](http://www.bandisoft.com/honeyview/) - 图片查看工具。~~ 卡卡的
 - [nomacs](https://nomacs.org/) - 图片查看工具。包括编辑器，不卡！ ![Freeware][Freeware Icon]
 - [IrfanView](http://www.irfanview.com/) - 图片查看工具。曾经用的。 ![Freeware][Freeware Icon]
-- [ImageMagick](https://www.imagemagick.org/script/index.php) - 命令行处理工具。
+- [ImageMagick](https://www.imagemagick.org/script/index.php) - 命令行处理工具
 - [ScreenToGif](http://www.screentogif.com/) - gif 格式录屏工具，轻量绿色开源。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
-- [ComicRack](http://comicrack.cyolito.com/software/windows/comicrack-for-windows) - Windows 漫画阅读器。
+- [ComicRack](http://comicrack.cyolito.com/software/windows/comicrack-for-windows) - Windows 漫画阅读器
 
 ### 终端
 - [ConEmu](https://conemu.github.io/) - Windows 下的带 tab 的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
@@ -53,27 +53,27 @@
 ### 编辑器
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim 是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
-- [Sublime Text 3](http://www.sublimetext.com/3) - 高级文本编辑器。
-- [EmEditor](https://www.emeditor.com/) - 主要用于编辑 16 进制文件和超大文件。
-- [Notion](https://www.notion.so/) - A unified & collaborative workspace for your notes, wikis, and tasks. 总的来说，华而不实。
+- [Sublime Text 3](http://www.sublimetext.com/3) - 高级文本编辑器
+- [EmEditor](https://www.emeditor.com/) - 主要用于编辑 16 进制文件和超大文件
+- [Notion](https://www.notion.so/) - A unified & collaborative workspace for your notes, wikis, and tasks. 总的来说，华而不实
 
 ### 浏览器
-- [CentBrowser](https://www.centbrowser.com/) - Chromium 内核，可以完全替代 Chrome——包括各种插件也能用——的可以关闭 Direct Writer 方便 MacType 渲染的浏览器。
+- [CentBrowser](https://www.centbrowser.com/) - Chromium 内核，可以完全替代 Chrome——包括各种插件也能用——的可以关闭 Direct Writer 方便 MacType 渲染的浏览器
 
 ### 个性化
 - [MacType](https://github.com/snowie2000/mactype) - Windows 字体渲染工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] （虽然总是和其他软件冲突但是就是离不开它。）
 - [CHKen Tray Clock](http://www.chken.com/kClock.html) - Windows 任务栏时间增强工具。 ![Freeware][Freeware Icon](win10 一周年更新以后需要删除任务栏通知才能继续用，重度依赖！)
-- [Rainmeter](https://www.rainmeter.net/) - 个性化桌面定制工具。曾经很喜欢，现在不用了。
-- [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - 将实时卫星云图作为桌面壁纸。
-- [设置带秒钟的时间](https://tieba.baidu.com/p/5137557374) - 在 Win10 1703 版本设置任务栏时钟带有秒针。
+- [Rainmeter](https://www.rainmeter.net/) - 个性化桌面定制工具。曾经很喜欢，现在不用了
+- [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - 将实时卫星云图作为桌面壁纸
+- [设置带秒钟的时间](https://tieba.baidu.com/p/5137557374) - 在 Win10 1703 版本设置任务栏时钟带有秒针
 - [Translucenttb](https://github.com/TranslucentTB/TranslucentTB) - 任务栏透明工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ### 实用工具
-- [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好。
+- [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好
 - [Dism++](https://www.chuyu.me/zh-Hans/) - 微软 Dism 的 GUI 实现，系统压缩、更新管理等等。 ![Freeware][Freeware Icon]
 - [QuickLook](http://pooi.moe/QuickLook/) - 类似 Mac 的空格快速预览的功能。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Locale Emulator](http://pooi.moe/Locale-Emulator/) - 乱码修复工具。常用于日语游戏乱码问题等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [NirLauncher](http://launcher.nirsoft.net/) - Nir 一系列软件。
+- [NirLauncher](http://launcher.nirsoft.net/) - Nir 一系列软件
 - ~~[QTranslate](https://quest-app.appspot.com/) - Windows 下的翻译工具。 ![Freeware][Freeware Icon]~~
 - [Lingoes](http://www.lingoes.cn/) - 灵格斯词典
 - [QRcode](https://github.com/sylnsfar/qrcode) - QRcode + 图片。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -87,34 +87,34 @@
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间占用图像化。 ![Freeware][Freeware Icon]
 - [AnyDesk](https://anydesk.com/remote-desktop) - 远程桌面。 ![Freeware][Freeware Icon]
 - [park cursor aside](https://sites.google.com/site/parkcursoraside/) - 输入的时候将鼠标移开。 ![Freeware][Freeware Icon](运行的时候会产生一些文件)
-- [GeekUninstaller](https://geekuninstaller.com) - Geek 卸载器。
+- [GeekUninstaller](https://geekuninstaller.com) - Geek 卸载器
 - [JComicDownloader](https://sites.google.com/site/jcomicdownloader/) - 使用 Java 写的漫画下载工具。强！ ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [NirCmd](http://www.nirsoft.net/utils/nircmd.html) - 命令行进行朗读、音量控制等多种命令。
-- [zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop) - 为 win10 虚拟桌面功能提供更多快捷键。
+- [NirCmd](http://www.nirsoft.net/utils/nircmd.html) - 命令行进行朗读、音量控制等多种命令
+- [zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop) - 为 win10 虚拟桌面功能提供更多快捷键
 
 ### 网络工具
 - [ShadowSocks](https://shadowsocks.org/) - 代理。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [Proxifier](http://proxifier.com/) - 让其他软件也能用代理。
+- [Proxifier](http://proxifier.com/) - 让其他软件也能用代理
 - [Wireshark](https://www.wireshark.org/) - 一个网络协议分析工具。 [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
 - [Caddy](https://caddyserver.com/) - 轻量级支持 HTTP/2 的服务器。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - ~~[IDM](http://internetdownloadmanager.com/) - 下载器。~~
 - [EagleGet](http://www.eagleget.com/) - 免费下载器
-- [NetWorx](https://www.softperfect.com/products/networx/) - 流量监控工具。监控流量、连接等等，包括忽略某些流量的功能（忽略内网、IPv6）。
-- [WinSshFs](https://github.com/Foreveryone-cz/win-sshfs/releases) - Windows 下的 sshfs 工具。
+- [NetWorx](https://www.softperfect.com/products/networx/) - 流量监控工具。监控流量、连接等等，包括忽略某些流量的功能（忽略内网、IPv6）
+- [WinSshFs](https://github.com/Foreveryone-cz/win-sshfs/releases) - Windows 下的 sshfs 工具
 
 ### 电子邮件
 - ~~Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。~~
 - [Foxmail](http://www.foxmail.com/) - 微软的东西都是看上去挺好，用起来体验极差。最后还是用 Foxmail 好！
 
 ### 数据恢复
-- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件，主要设计用于帮助恢复丢失的分区和 / 或使非引导磁盘重新启动。
+- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件，主要设计用于帮助恢复丢失的分区和 / 或使非引导磁盘重新启动
 
 ### 在线存储
 - [Google Drive](https://www.google.com/drive/download/) - 深深融入 Google 生态系统的云存储解决方案。（用来备份）
 
 ### 开发者工具
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - 功能强大的任务管理工具 ![Freeware][Freeware Icon]
-- [SourceTree](https://www.sourcetreeapp.com/) - 一个免费的 Git & Mercurial 客户端。
+- [SourceTree](https://www.sourcetreeapp.com/) - 一个免费的 Git & Mercurial 客户端
 - [RazorSQL](http://www.razorsql.com/) - 供数据库管理员使用的 SQLite 数据库管理软件
 - [GitKraken](https://www.gitkraken.com/) - 优美，跨平台的 Git 客户端 ![Freeware][Freeware Icon]
 - [Zeal](https://zealdocs.org/) - 离线文档查看器。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -124,92 +124,145 @@
 ### 生产力工具
 - [AutoHotkey](https://autohotkey.com/) - Windows 平台的终极自动化脚本语言。 [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon] （重度依赖）
 - [Everything](http://www.voidtools.com/) - 最快的文件 / 文件夹搜索工具， 通过名称搜索。![Freeware][Freeware Icon](重度依赖)
-- ~~[f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon](曾经依赖)~~ Win10 1703 更新已经加入了夜灯模式。
-- [Listary](http://www.listary.com/) - 让你的文件不离指尖。 独特的搜索实用程序。
+- ~~[f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon](曾经依赖)~~ Win10 1703 更新已经加入了夜灯模式
+- [Listary](http://www.listary.com/) - 让你的文件不离指尖。 独特的搜索实用程序
 - [Scoop](https://github.com/lukesampson/scoop) - Windows 的命令行安装程序。 [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
 
 ### 集成开发环境
-- [Visual Studio](https://www.visualstudio.com/vs/) - 微软官方的 IDE，通过插件可支持大量编程语言。
+- [Visual Studio](https://www.visualstudio.com/vs/) - 微软官方的 IDE，通过插件可支持大量编程语言
 - [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE , 基于 IntelliJ 的 IDEA。 [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
 
 ## Linux
 
+### 必备
+- git
+- (g)vim
+- sudo
+- the_silver_searcher - ag
+
+### 窗口
+- i3clock,i3status,py3status,i3-gaps,xorg,xorg-xinit - i3 窗口管理器相关
+- compton - 窗口透明
+- transset-df - 窗口透明
+- dmenu - 运行命令
+- lilyterm - 一个中文友好的终端模拟器
+- google-chrome
+- thunar - 文件管理器
+- zathura, zathura-pdf-poppler - 文档阅读器
+- nextcloud - 云盘
+- scrot - 截图
+
+### 中文
+- wqy-microhei,wqy-microhei-lite,wqy-zenhei,ttf-arphic-ukai,ttf-arphic-uming,adobe-source-han-sans-cn-fonts,adobe-source-code-pro-fonts,ttf-vista-fonts - 字体
+- fcitx,fcitx-configtool,fcitx-im - 输入法
+
+### 命令行
+- proxychains - 命令行代理工具
+- shadowsocks - 代理
+- tmux - 命令行窗口管理
+- htop - 命令行任务监视器
+- netstat - 网络连接状况
+- ranger - 文件管理器
+- cron - 定时任务运行
+- ddclient - ddns
+
+### 程序员
+- ruby,gems,rvm
+- python,python-pip
+- lua,tcl
+- nodejs,npm
+- jdk8-openjdk
+- texlive
+- cmake
+
 ## Android
+
+### 常用应用
 - Chrome、Google 地图、Google 翻译、Google 日历、Google 相册、Google Drive、Google 框架、科学杂志、SnapSeed - Google 全家桶
 - 酷安、pixiv、ofo、Onenote、QQ、微信、Steam、bilibili、钉钉、支付宝
-- 扇贝一套：单词、读书、炼句、听力、新闻。 - 好久没用了。
-- 欢乐书客、起点阅读 - 小说阅读。
-- [爱看阅读](https://www.coolapk.com/apk/com.mdroid.read) - 一个搜索以及自动抓取网页内容的小说阅读器。8 个权限没有广告。
+
+### 阅读
+- 欢乐书客、起点阅读 - 小说阅读
+- [爱看阅读](https://www.coolapk.com/apk/com.mdroid.read) - 一个搜索以及自动抓取网页内容的小说阅读器。8 个权限没有广告
+- [Cimoc](https://github.com/Arachnid-27/Cimoc) - 漫画阅读器
+- [一句](https://www.coolapk.com/apk/small.word) - 桌面显示一句话
+- [追书神器](https://www.coolapk.com/apk/com.ushaqi.zhuishushenqi) - 看小说
+- [NGA 玩家社区](https://www.coolapk.com/apk/gov.pianzong.androidnga) - NGA 客户端
+- [Smooth](https://play.google.com/store/apps/details?id=com.mzba.happy.laugh) - 微博客户端
+- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) - 漫画阅读器
+- [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly) - Feedly 客户端
+
+### 单词
+- 扇贝一套：单词、读书、炼句、听力、新闻。 - 好久没用了
+- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) - 背单词等
+- [Define](https://play.google.com/store/apps/details?id=in.workarounds.define) - 点击翻译
+
+### 工具
+- [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) - 启动器
+- [MX 播放器](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - 播放器
 - Arity - 个人认为安卓最好用的计算器，不花哨。支持复数、支持各种计算以及 2D、3D 绘图，速度很快精度挺高。（真正为需要计算器的人设计的计算器）
-- [ArityMod](https://play.google.com/store/apps/details?id=ua.naiksoftware.aritymod) - GooglePlay 上只能搜到这个，貌似是上面那个的升级版（试用后发现并不好用）。
-- [薄暮微光](https://play.google.com/store/apps/details?id=com.urbandroid.lux) - 屏幕暗化、去蓝光。
-- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) - 背单词等。
-- [彩云天气](https://www.coolapk.com/apk/com.nowcasting.activity) - 精确到分钟的（夏天并不准）天气预报。
-- [发条番茄钟](https://play.google.com/store/apps/details?id=net.phlam.android.clockworktomato) - 番茄时钟。
-- [Github Contributions Widget](https://play.google.com/store/apps/details?id=by.aleks.ghcwidget) - github 贡献桌面小部件。
-- 初音扩展现实相机 - AR 拍照死宅用。
-- [Cimoc](https://github.com/Arachnid-27/Cimoc) - 漫画阅读器。
-- [DayGram](https://play.google.com/store/apps/details?id=net.saltycrackers.daygram) - 每天日记一句话。简洁好用。
-- [Define](https://play.google.com/store/apps/details?id=in.workarounds.define) - 点击翻译。
-- [Elun](https://play.google.com/store/apps/details?id=com.vertumus.elun) - 图标包。
-- [Euclidea](https://play.google.com/store/apps/details?id=com.hil_hk.euclidea) - 几何证明游戏。
-- [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly) - Feedly 客户端。
-- [Flyperlink](https://play.google.com/store/apps/details?id=com.flyperinc.flyperlink) - 悬浮浏览器。
-- [Github Trends](https://play.google.com/store/apps/details?id=com.laowch.githubtrends.play2) - Github 开源项目趋势。
-- [H5 浏览器](https://www.coolapk.com/apk/org.noear.h5) - 日常用轻量级浏览器。
-- [靓晒](https://www.coolapk.com/apk/ooo.oxo.apps.materialize) - 图标生成工具。
-- [TuNet](https://play.google.com/store/apps/details?id=mu.lab.tunet) - 校园网联网工具。
-- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) - 漫画阅读器。
-- [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) - 启动器。
-- [MX 播放器](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - 播放器。
-- [NGA 玩家社区](https://www.coolapk.com/apk/gov.pianzong.androidnga) - NGA 客户端。
-- [Smooth](https://play.google.com/store/apps/details?id=com.mzba.happy.laugh) - 微博客户端。
-- [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm) - 系统清理工具。
-- [生辰](https://www.coolapk.com/apk/com.chanyouji.birth) - 活了多久。
-- [Dash Clock](https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock) - 桌面小部件。
-- [一个木函](https://www.coolapk.com/apk/com.One.WoodenLetter) - 实用小工具集合，以及网页 APP。
-- [一句](https://www.coolapk.com/apk/small.word) - 桌面显示一句话。
-- [影梭](https://play.google.com/store/apps/details?id=com.github.shadowsocks) - 科学上网。
-- [追书神器](https://www.coolapk.com/apk/com.ushaqi.zhuishushenqi) - 看小说。
-- [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) - 压缩文件管理器。
+- [ArityMod](https://play.google.com/store/apps/details?id=ua.naiksoftware.aritymod) - GooglePlay 上只能搜到这个，貌似是上面那个的升级版（试用后发现并不好用）
+- [DayGram](https://play.google.com/store/apps/details?id=net.saltycrackers.daygram) - 每天日记一句话。简洁好用
+- [彩云天气](https://www.coolapk.com/apk/com.nowcasting.activity) - 精确到分钟的（夏天并不准）天气预报
+- [发条番茄钟](https://play.google.com/store/apps/details?id=net.phlam.android.clockworktomato) - 番茄时钟
+- 初音扩展现实相机 - AR 拍照死宅用
+- [TuNet](https://play.google.com/store/apps/details?id=mu.lab.tunet) - 校园网联网工具
+- [Flyperlink](https://play.google.com/store/apps/details?id=com.flyperinc.flyperlink) - 悬浮浏览器
+- [H5 浏览器](https://www.coolapk.com/apk/org.noear.h5) - 日常用轻量级浏览器
+- [Github Trends](https://play.google.com/store/apps/details?id=com.laowch.githubtrends.play2) - Github 开源项目趋势
+- [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm) - 系统清理工具
+- [生辰](https://www.coolapk.com/apk/com.chanyouji.birth) - 活了多久
+- [一个木函](https://www.coolapk.com/apk/com.One.WoodenLetter) - 实用小工具集合，以及网页 APP
+- [影梭](https://play.google.com/store/apps/details?id=com.github.shadowsocks) - 科学上网
+- [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) - 压缩文件管理器
+
+### 美化
+- [薄暮微光](https://play.google.com/store/apps/details?id=com.urbandroid.lux) - 屏幕暗化、去蓝光
+- [Elun](https://play.google.com/store/apps/details?id=com.vertumus.elun) - 图标包
+- [靓晒](https://www.coolapk.com/apk/ooo.oxo.apps.materialize) - 图标生成工具
 
 ### 游戏
-- [Charles](https://play.google.com/store/apps/details?id=com.crater.charles) - 减压射击小游戏。111% 是个优秀公司，只是广告比较多。
-- [BBTan](https://play.google.com/store/apps/details?id=com.crater.bbtan) - 减压小游戏。
+- [Charles](https://play.google.com/store/apps/details?id=com.crater.charles) - 减压射击小游戏。111% 是个优秀公司，只是广告比较多
+- [BBTan](https://play.google.com/store/apps/details?id=com.crater.bbtan) - 减压小游戏
 - [方块游戏](https://www.coolapk.com/game/com.lfeng.brickgame) - 曾经有过的游戏机。（当时都不需要说明书就会玩）
-- [Loop](https://play.google.com/store/apps/details?id=com.balysv.loop) - 给强迫症玩的游戏。
-- [纸牌游戏集合](https://play.google.com/store/apps/details?id=com.anoshenko.android.solitaires) - 250 多纸牌游戏。
+- [Euclidea](https://play.google.com/store/apps/details?id=com.hil_hk.euclidea) - 几何证明游戏
+- [Loop](https://play.google.com/store/apps/details?id=com.balysv.loop) - 给强迫症玩的游戏
+- [纸牌游戏集合](https://play.google.com/store/apps/details?id=com.anoshenko.android.solitaires) - 250 多纸牌游戏
+
+### 桌面小部件
+- [Github Contributions Widget](https://play.google.com/store/apps/details?id=by.aleks.ghcwidget) - github 贡献桌面小部件
+- [Dash Clock](https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock) - 桌面小部件
 
 ## Chrome
 
 ### 插件
 - [OneTab](https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall) - 拖延症的福音，关闭标签页并将标签地址保存下来。（然后越来越多待办标签页）
-- [Pocket](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj) - 和 OneTab 类似功能，只不过可以同步。
-- [Proxy SwitchOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) - 代理工具。
+- [Pocket](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj) - 和 OneTab 类似功能，只不过可以同步
+- [Proxy SwitchOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) - 代理工具
 - [Google 学术搜索按钮](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn) - Google 学术搜索
-- [微信弹幕](http://aidistan.github.io/browser-weixin-danmu/) - 将网页微信消息变为浏览器页面弹幕。
-- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - 整个页面截屏成图片。
-- [Google 输入工具](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - 网页输入法。
-- [Stylish](https://userstyles.org/) - 定制网页 CSS。
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - 浏览器脚本管理工具。
+- [微信弹幕](http://aidistan.github.io/browser-weixin-danmu/) - 将网页微信消息变为浏览器页面弹幕
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - 整个页面截屏成图片
+- [Google 输入工具](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - 网页输入法
+- [Stylish](https://userstyles.org/) - 定制网页 CSS
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - 浏览器脚本管理工具
 - [Library Sniffer for Google Chrome](https://chrome.google.com/webstore/detail/library-sniffer-for-googl/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) - 显示网页使用了什么 JS 库
-- [Google 文档](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - 使用 Chrome 查看 doc、ppt、xls。
-- [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba) - 按照标题层级自动生成 TOC。
-- [Clutter Free](https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf) - 删除重复标签页。
-- [Mainichi](https://chrome.google.com/webstore/detail/dfekdjmdikicceaiokcmmchenpilglhn) - 设置新标签页为单词卡片。
-- [Fatkun](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf) - 图片批量下载。
-- [二箱](https://chrome.google.com/webstore/detail/kidibbfcblfbbafhnlanccjjdehoahep) - 以图搜图工具。
+- [Google 文档](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - 使用 Chrome 查看 doc、ppt、xls
+- [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba) - 按照标题层级自动生成 TOC
+- [Clutter Free](https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf) - 删除重复标签页
+- [Mainichi](https://chrome.google.com/webstore/detail/dfekdjmdikicceaiokcmmchenpilglhn) - 设置新标签页为单词卡片
+- [Fatkun](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf) - 图片批量下载
+- [二箱](https://chrome.google.com/webstore/detail/kidibbfcblfbbafhnlanccjjdehoahep) - 以图搜图工具
 - [草榴游客神器](https://chrome.google.com/webstore/detail/blofeijggklkkamdbgmogbhfcmadnnne) - 如名字，支持番号、人名搜索
 - [bilibili 助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh) - bilibili 助手
-- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - 使用 vim 方式操作浏览器。
-- [Octotree](https://github.com/buunguyen/octotree) - Github 显示文件列表。
-- [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Github 增强。
-- [EnhancedSteam](http://www.enhancedsteam.com/) - Steam 增强工具，包括历史价格、配置要求等。
-- [Anki 划词制卡助手](https://chrome.google.com/webstore/detail/anki-%E5%88%92%E8%AF%8D%E5%88%B6%E5%8D%A1%E5%8A%A9%E6%89%8B/ajencmdaamfnkgilhpgkepfhfgjfplnn) - 主要用来翻译单词。
-- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告过滤。
-- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - 语法检查等写作工具。
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - 使用 vim 方式操作浏览器
+- [Octotree](https://github.com/buunguyen/octotree) - Github 显示文件列表
+- [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Github 增强
+- [EnhancedSteam](http://www.enhancedsteam.com/) - Steam 增强工具，包括历史价格、配置要求等
+- [Anki 划词制卡助手](https://chrome.google.com/webstore/detail/anki-%E5%88%92%E8%AF%8D%E5%88%B6%E5%8D%A1%E5%8A%A9%E6%89%8B/ajencmdaamfnkgilhpgkepfhfgjfplnn) - 主要用来翻译单词
+- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告过滤
+- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - 语法检查等写作工具
 - [Wikiwand](http://www.wikiwand.com/) - Wikipedia 现代化！
-- [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd) - 显示页面的 RSS 订阅地址。
+- [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd) - 显示页面的 RSS 订阅地址
 
 ### Tampermonkey
 - [AntiAdware](https://greasyfork.org/scripts/4294-antiadware/code/AntiAdware.user.js) - 避免下载到广告软件
@@ -232,7 +285,7 @@
 - 查找：`*` `#`
 - `:r!`: 输入外部命令输出
     - `:r!seq 10`: input 1 2 3 4 5 6 7 8 9 10
-- `Ctrl+o`: insert 模式运行一个 normal 命令。
+- `Ctrl+o`: insert 模式运行一个 normal 命令
 - 折叠代码：`zf` `zo` `zc`
 - 查找：`t` `f`
 - 保存会话：`:mksession ~/.session.vim` `vim -S ~/.session.vim`
@@ -240,7 +293,7 @@
 - `:copen`
 - `=` `=%` 缩进行，缩进块
 - `%`跳转到当前括号匹配的括号处
-- `;`重复上次 f 查找。
+- `;`重复上次 f 查找
 - `ZZ`=`:wq`（同时没有修改的时候`ZZ`不更改文件的修改时间）
 - `Ctrl+r`: 计算。`Ctrl+r '=2+2' ENTER`
 - `:ab alias tochange`: `:ab asap as soon as possible`
@@ -390,9 +443,9 @@ Plug 'vimcn/vimcdoc'
 call plug#end()
 ```
 
-## 配置
 
 **[⬆ 回到顶部](#windows)**
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+
