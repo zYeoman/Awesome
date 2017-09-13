@@ -86,6 +86,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [ImageMagick](https://www.imagemagick.org/script/index.php) - 命令行处理工具
 - [ScreenToGif](http://www.screentogif.com/) - gif 格式录屏工具，轻量绿色开源。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [ComicRack](http://comicrack.cyolito.com/software/windows/comicrack-for-windows) - Windows 漫画阅读器
+- [caesium](https://github.com/Lymphatus/caesium-clt) - JPG 图片压缩工具
 
 ### 终端
 - [ConEmu](https://conemu.github.io/) - Windows 下的带 tab 的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
@@ -212,9 +213,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - tmux - 命令行窗口管理
 - htop - 命令行任务监视器
 - netstat - 网络连接状况
-- ranger - 文件管理器
+- ranger - Python 实现的文件管理器
+- [lf](https://github.com/gokcehan/lf) - Go 实现的文件管理器
 - cron - 定时任务运行
 - ddclient - ddns
+- [fzf](https://github.com/junegunn/fzf) - 模糊搜索工具，支持命令行 <key>Ctrl+r<\key> 以及 vim，支持 Windows。
 
 ### 程序员
 - ruby,gems,rvm
