@@ -54,6 +54,7 @@
          * [常用命令](#常用命令)
          * [文章](#文章)
          * [插件](#插件 -1)
+      * [Python](#Python)
    * [Table of Contents](#table-of-contents)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
@@ -122,7 +123,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### 实用工具
 - [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好
 - [Dism++](https://www.chuyu.me/zh-Hans/) - 微软 Dism 的 GUI 实现，系统压缩、更新管理等等。 ![Freeware][Freeware Icon]
-- [QuickLook](http://pooi.moe/QuickLook/) - 类似 Mac 的空格快速预览的功能。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [QuickLook](http://pooi.moe/QuickLook/) - 类似 Mac 的空格快速预览的功能。类似的还有 Seer。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Locale Emulator](http://pooi.moe/Locale-Emulator/) - 乱码修复工具。常用于日语游戏乱码问题等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [NirLauncher](http://launcher.nirsoft.net/) - Nir 一系列软件
 - ~~[QTranslate](https://quest-app.appspot.com/) - Windows 下的翻译工具。 ![Freeware][Freeware Icon]~~
@@ -141,7 +142,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [GeekUninstaller](https://geekuninstaller.com) - Geek 卸载器
 - [JComicDownloader](https://sites.google.com/site/jcomicdownloader/) - 使用 Java 写的漫画下载工具。强！ ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [NirCmd](http://www.nirsoft.net/utils/nircmd.html) - 命令行进行朗读、音量控制等多种命令
-- [zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop) - 为 win10 虚拟桌面功能提供更多快捷键
+- [zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop) - 为 win10 虚拟桌面功能提供更多快捷键 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [sudo](https://github.com/mattn/sudo) - Go 语言实现的 Windows 下的 sudo 工具 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [qwertick](http://www.nattyware.com/qwertick.php) - 30KB 大小的一个按键发声软件。类似的还有 [Tickeys](http://www.yingdev.com/projects/tickeys) ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ### 网络工具
 - [ShadowSocks](https://shadowsocks.org/) - 代理。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -496,6 +499,10 @@ Plug 'vimcn/vimcdoc'
 call plug#end()
 ```
 
+## Python
+
+### 包
+- [minibar](https://github.com/canassa/minibar) - Python 进度条工具
 
 **[⬆ 回到顶部](#windows)**
 
