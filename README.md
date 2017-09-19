@@ -504,9 +504,10 @@ call plug#end()
 ### 包
 - [minibar](https://github.com/canassa/minibar) - Python 进度条工具
 
+### 命令行程序
+- [MagicWormhole](https://github.com/warner/magic-wormhole) - 不同电脑之间快速传文件
+
 **[⬆ 回到顶部](#windows)**
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
-
-
