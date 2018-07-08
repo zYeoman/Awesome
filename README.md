@@ -369,134 +369,148 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### 插件
 
 ```vim
-" Plugged 管理插件的插件
-call plug#begin('~/.vim/plugged')
-" 生成 Doxygen 风格的注释，使用方法：
-" :Dox :DoxAuthor :DoxBlock :DoxLic
-Plug 'vim-scripts/DoxygenToolkit.vim'
-" 单词检查
-Plug 'vim-scripts/Engspchk'
-" Vim 日历
-Plug 'itchyny/calendar.vim'
-" 模板工具
-Plug 'aperezdc/vim-template'
-" 异步运行
-Plug 'skywind3000/asyncrun.vim'
-" TAB 补全！
-Plug 'ervandew/supertab'
-" 我自己的默认设置
-Plug 'zyeoman/vim-better-default'
-" Colorscheme 们
-Plug 'flazz/vim-colorschemes'
-" 文件浏览，F3
-Plug 'scrooloose/nerdtree'
-" 代码注释
-Plug 'scrooloose/nerdcommenter'
-" Class/module browser
-Plug 'majutsushi/tagbar'
-" Code and files fuzzy finder
-Plug 'kien/ctrlp.vim'
-" ,f 查找函数
-Plug 'tacahiroy/ctrlp-funky'
-" Extension to ctrlp, for fuzzy command finder
-Plug 'fisadev/vim-ctrlp-cmdpalette'
-" Zen coding
-Plug 'mattn/emmet-vim'
-" Maybe the best Git integration
-Plug 'tpope/vim-fugitive'
-" Tab list panel
-Plug 'kien/tabman.vim'
-" Airline
-Plug 'vim-airline/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
-" Consoles as buffers
-Plug 'rosenfeld/conque-term'
-" Pending tasks list
-Plug 'fisadev/FixedTaskList.vim'
-" Surround
-Plug 'tpope/vim-surround'
-" Autoclose
-Plug 'Townk/vim-autoclose'
-" Indent text object
-Plug 'michaeljsmith/vim-indent-object'
-" Python mode (indentation, doc, refactor, lints, code checking, motion and
-" operators, highlighting, run and ipdb breakpoints)
-Plug 'klen/python-mode'
-" Better autocompletion
-Plug 'Shougo/neocomplcache.vim'
-" Snippets manager (SnipMate), dependencies, and snippets repo
-Plug 'MarcWeber/vim-addon-mw-utils'
-Plug 'tomtom/tlib_vim'
-Plug 'honza/vim-snippets'
-" Track the engine.
-Plug 'SirVer/ultisnips'
+  call plug#begin(yeo_vimroot . '/plugged')
+  " 扩展VIM % g%匹配功能 {{{
+  " 映射     描述
+  " %        正向匹配
+  " g%       反向匹配
+  " [%       定位块首
+  " ]%       定位块尾
+  Plug 'tmhedberg/matchit', { 'for': ['html', 'xml'] }
+  " }}}
+  " Repeat -- 支持普通模式使用"."来重复执行一些插件的命令
+  Plug 'tpope/vim-repeat'
+  " 启动页面，包括最近使用的文件等
+  Plug 'mhinz/vim-startify'
+  " 文件查找 ,f 查找函数
+  if isWindows
+    Plug 'Yggdroot/LeaderF', { 'do': '.\install.bat' }
+  else
+    Plug 'Yggdroot/LeaderF', { 'do': './install.sh' }
+    Plug 'chrisbra/SudoEdit.vim'
+  endif
+  " 搜索 TODO,FIXME,XXX, 生成TaskList
+  Plug 'fisadev/FixedTaskList.vim'
+  Plug 'haya14busa/is.vim'
+  " Expand v 连点v扩展选择
+  " 不如使用viw, vi',V等操作
+  " Plug 'terryma/vim-expand-region'
+  " 边界移动，C-j C-k
+  " Plug 'haya14busa/vim-edgemotion'
+  " map <C-j> <Plug>(edgemotion-j)
+  " map <C-k> <Plug>(edgemotion-k)
+  " Git 显示修改
+  Plug 'mhinz/vim-signify'
+  " 打开文件时自动创建没有的文件夹
+  Plug 'pbrisbin/vim-mkdir'
+  " 支持更多的ci,ca,cd等操作(包括‘“'",;:+=-等等)
+  Plug 'wellle/targets.vim'
 
-" awesome colorscheme
-" Plug 'tomasr/molokai'
-" Git/mercurial/others diff icons on the side of the file lines
-Plug 'mhinz/vim-signify'
-" Automatically sort python imports
-Plug 'fisadev/vim-isort'
-" Drag visual blocks arround
-Plug 'fisadev/dragvisuals.vim'
-" Window chooser
-Plug 't9md/vim-choosewin'
-" Python and other languages code checker
-Plug 'scrooloose/syntastic'
-" Paint css colors with the real color
-Plug 'lilydjwg/colorizer'
-" Relative numbering of lines (0 is the current line)
-" (disabled by default because is very intrusive and can't be easily toggled
-" on/off. When the plugin is present, will always activate the relative
-" numbering every time you go to normal mode. Author refuses to add a setting
-" to avoid that)
-" Plug 'myusuf3/numbers.vim'
+  " 自动填充 {{{
+    " Install on archlinux
+    " Adding "--system-libclang" to ./install.py
+    Plug 'Valloric/YouCompleteMe'
+    Plug 'rdnetto/YCM-Generator', { 'branch': 'stable' }
+    Plug 'ervandew/supertab'
+    Plug 'asins/vim-dict'
+    " 代码片段
+    Plug 'MarcWeber/vim-addon-mw-utils'
+    Plug 'tomtom/tlib_vim'
+    Plug 'SirVer/ultisnips'
+    Plug 'honza/vim-snippets'
+    " 新文件Template
+    Plug 'aperezdc/vim-template'
+    " Emmet
+    Plug 'mattn/emmet-vim', { 'for': [ 'css', 'html', 'less', 'sass', 'scss', 'xml', 'xsd', 'xsl', 'xslt', 'mustache' ] }
+    " Paint css colors with the real color
+    Plug 'lilydjwg/colorizer', { 'for': [ 'css', 'html', 'less', 'sass', 'scss', 'xml', 'xsd', 'xsl', 'xslt', 'mustache' ] }
+  " }}}
+  " 自动配对
+  Plug 'jiangmiao/auto-pairs'
+  " Win Resize 使用C-e hjkl设置窗口大小
+  Plug 'simeji/winresizer'
+  " AsyncRun {{{
+  Plug 'skywind3000/asyncrun.vim'
+  let g:asyncrun_open=8
+  nnoremap <C-r> :AsyncRun<Space>
+  nnoremap U <C-r>
+  " }}}
+  " 彩虹括号 {{{
+  Plug 'luochen1990/rainbow'
+  let g:rainbow_active = 1
+    let g:rainbow_conf = {
+    \     'guifgs': ['royalblue3', 'darkorange3', 'seagreen3', 'firebrick'],
+    \     'ctermfgs': ['lightblue', 'lightyellow', 'lightcyan', 'lightmagenta'],
+    \     'operators': '_,_',
+    \     'parentheses': ['start=/(/ end=/)/ fold', 'start=/\[/ end=/\]/ fold', 'start=/{/ end=/}/ fold'],
+    \     'separately': {
+    \         '*': {},
+    \         'tex': {
+    \             'parentheses': ['start=/(/ end=/)/', 'start=/\[/ end=/\]/'],
+    \         },
+    \         'lisp': {
+    \             'guifgs': ['royalblue3', 'darkorange3', 'seagreen3', 'firebrick', 'darkorchid3'],
+    \         },
+    \         'vim': {
+    \             'parentheses': ['start=/(/ end=/)/', 'start=/\[/ end=/\]/', 'start=/{/ end=/}/ fold', 'start=/(/ end=/)/ containedin=vimFuncBody', 'start=/\[/ end=/\]/ containedin=vimFuncBody', 'start=/{/ end=/}/ fold containedin=vimFuncBody'],
+    \         },
+    \         'html': {
+    \             'parentheses': ['start=/\v\<((area|base|br|col|embed|hr|img|input|keygen|link|menuitem|meta|param|source|track|wbr)[ >])@!\z([-_:a-zA-Z0-9]+)(\s+[-_:a-zA-Z0-9]+(\=("[^"]*"|'."'".'[^'."'".']*'."'".'|[^ '."'".'"><=`]*))?)*\>/ end=#</\z1># fold'],
+    \         },
+    \         'css': 0,
+    \     }
+    \}
+  " }}}
+  " Colorscheme
+  Plug 'morhetz/gruvbox'
+  " Plug 'flazz/vim-colorschemes'
+  " Airline - 更轻的vim-powerline替代品
+  Plug 'vim-airline/vim-airline'
+  Plug 'vim-airline/vim-airline-themes'
+  " gcc注释
+  Plug 'tpope/vim-commentary'
+  " 全局文内搜索
+  if s:hasAg
+    Plug 'rking/ag.vim'
+  " :Ag [options] pattern [directory]
+  " :Ag FooBar foo/**/*.py 等同于 :Ag -G foo/.*/[^/]*\.py$ FooBar
+  endif
+  " 对齐 {{{
+  Plug 'vim-scripts/Align'
+  " Plug 'junegunn/vim-easy-align'
+  " Start interactive EasyAlign in visual mode (e.g. vipga)
+  " xmap ga <Plug>(EasyAlign)
+  " }}}
+  Plug 'scrooloose/nerdtree'
+  " 写作模式
+  Plug 'junegunn/goyo.vim'
+  " Mark显示
+  Plug 'kshenoy/vim-signature'
+  " F10 RUN
+  Plug 'thinca/vim-quickrun'
+  " 快速移动
+  " 没用过这功能。。。
+  " Plug 'Lokaltog/vim-easymotion'
+  " 中文Doc
+  Plug 'vimcn/vimcdoc'
+  " 使用:Dox :DoxAuthor添加描述
+  Plug 'vim-scripts/DoxygenToolkit.vim'
+  let g:load_doxygen_syntax=1
+  " 回到退出时的位置
+  Plug 'farmergreg/vim-lastplace'
 
-" javascript complete after install the plugin, you must cd the install
-" directory and run `npm install`, then add a .tern-project config file
-" the doc at http://ternjs.net/doc/manual.html#vim
-Plug 'marijnh/tern_for_vim'
-" Golang Plugs
-Plug 'fatih/vim-go'
-" JSX syntax highlight.
-Plug 'mxw/vim-jsx'
-" Markdown syntastic highlight
-Plug 'godlygeek/tabular'
-Plug 'dhruvasagar/vim-table-mode'
-Plug 'plasticboy/vim-markdown'
-" Markdown realtime preview
-" Before you want to use it, please run
-" `sudo npm -g install instant-markdown-d`
-Plug 'suan/vim-instant-markdown'
-" Handlebars syntax highlighting
-Plug 'mustache/vim-mustache-handlebars'
-" Vue.js syntax and highlighting
-Plug 'tao12345666333/vim-vue'
-" True Sublime Text style multiple selections for Vim
-Plug 'terryma/vim-multiple-cursors'
+  "Languages {{{
+    Plug 'sheerun/vim-polyglot'
+    " Python and other languages code checker
+    Plug 'w0rp/ale'
+    " Python mode (indentation, doc, refactor, lints, code checking, motion and
+    " operators, highlighting, run and ipdb breakpoints)
+    " Plug 'klen/python-mode'
+    Plug 'vimwiki/vimwiki'
+    Plug 'plasticboy/vim-markdown'
+  " }}}
 
-" Plugs from vim-scripts repos:
-
-" Search results counter
-Plug 'IndexedSearch'
-" XML/HTML tags navigation
-Plug 'matchit.zip'
-" Gvim colorscheme
-Plug 'Wombat'
-" Yank history navigation
-Plug 'YankRing.vim'
-" 盘古中文排版自动化
-Plug 'hotoo/pangu.vim'
-" Expand v 连点 v 扩展选择
-Plug 'terryma/vim-expand-region'
-" Comment gc
-Plug 'tpope/vim-commentary'
-" Readline 风格快捷键
-Plug 'tpope/vim-rsi'
-" 中文 Doc
-Plug 'vimcn/vimcdoc'
-
-call plug#end()
+  call plug#end()
 ```
 
 ## Python
