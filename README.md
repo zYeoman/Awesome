@@ -8,9 +8,11 @@
 
 > 重要准则：**下载即用，无需注册**
 
-## Table of Contents
+Table of Contents
+=================
 
-   * [我的 Awesome 列表](#我的 -awesome- 列表)
+   * [我的 Awesome 列表](#我的-awesome-列表)
+      * [Table of Contents](#table-of-contents)
       * [Windows](#windows)
          * [音频](#音频)
          * [视频](#视频)
@@ -49,13 +51,16 @@
       * [Chrome](#chrome)
          * [插件](#插件)
          * [Tampermonkey](#tampermonkey)
+         * [导出列表](#导出列表)
          * [链接](#链接)
       * [Vim](#vim)
          * [常用命令](#常用命令)
          * [文章](#文章)
-         * [插件](#插件 -1)
-      * [Python](#Python)
-   * [Table of Contents](#table-of-contents)
+         * [插件](#插件-1)
+      * [Python](#python)
+         * [包](#包)
+         * [命令行程序](#命令行程序)
+   * [Table of Contents](#table-of-contents-1)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
@@ -73,6 +78,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### 压缩
 - [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源 Windows 实用程序。完美支持 7z，ZIP，GZIP，BZIP2 和 TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon] （更多用来命令行批量解压）
 - https://goimg.io/ - 有损压缩图片，效果还可以
+- [Caesium-clt](https://github.com/Lymphatus/caesium-clt) - 命令行图片压缩工具，用来压缩漫画。
 
 ### 聊天
 - [WeChat](https://weixin.qq.com/) - 微信。![Freeware][Freeware Icon]
@@ -101,6 +107,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### 文档
 - [Microsoft Office](http://www.office.com) - 微软自己的生产力套件。（OneNote 最强！）
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR 阅读器。 ![Freeware][Freeware Icon] （轻量好用！还可以看图片压缩包——漫画）
+- [Mendeley](https://www.mendeley.com/) - 免费文献管理软件，会监视文件夹内的PDF自动生成信息，非常好用！
 
 ### 编辑器
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim 是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
@@ -114,14 +121,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### 个性化
 - [MacType](https://github.com/snowie2000/mactype) - Windows 字体渲染工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] （虽然总是和其他软件冲突但是就是离不开它。）
-- [CHKen Tray Clock](http://www.chken.com/kClock.html) - Windows 任务栏时间增强工具。 ![Freeware][Freeware Icon](win10 一周年更新以后需要删除任务栏通知才能继续用，重度依赖！)
+- ~~[CHKen Tray Clock](http://www.chken.com/kClock.html) - Windows 任务栏时间增强工具。 (win10 一周年更新以后需要删除任务栏通知才能继续用，重度依赖！)~~现在用Rainmeter实现了功能
 - [Rainmeter](https://www.rainmeter.net/) - 个性化桌面定制工具。曾经很喜欢，现在不用了
 - [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp) - 将实时卫星云图作为桌面壁纸
 - [设置带秒钟的时间](https://tieba.baidu.com/p/5137557374) - 在 Win10 1703 版本设置任务栏时钟带有秒针
 - [Translucenttb](https://github.com/TranslucentTB/TranslucentTB) - 任务栏透明工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ### 实用工具
-- [CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好
+- ~~[CCleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好~~ 现在貌似开始各种收费了，用Dism++更好。
 - [Dism++](https://www.chuyu.me/zh-Hans/) - 微软 Dism 的 GUI 实现，系统压缩、更新管理等等。 ![Freeware][Freeware Icon]
 - [QuickLook](http://pooi.moe/QuickLook/) - 类似 Mac 的空格快速预览的功能。类似的还有 Seer。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Locale Emulator](http://pooi.moe/Locale-Emulator/) - 乱码修复工具。常用于日语游戏乱码问题等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -130,7 +137,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Lingoes](http://www.lingoes.cn/) - 灵格斯词典
 - [QRcode](https://github.com/sylnsfar/qrcode) - QRcode + 图片。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - ~~[ManicTime](https://www.manictime.com/) - 跟踪记录每个软件上用的时间。~~
-- [番茄盒子](http://tomatobox.cn/) - 一款免费的自我管理软件，包括目标管理、番茄工作、上网控制、时间记录、总结反思等功能。唯一的缺点就是有点卡。 ![Freeware][Freeware Icon]
+- ~~[番茄盒子](http://tomatobox.cn/) - 一款免费的自我管理软件，包括目标管理、番茄工作、上网控制、时间记录、总结反思等功能。唯一的缺点就是有点卡。 ![Freeware][Freeware Icon] ~~因为太卡了而放弃了。
 - [Anki](https://apps.ankiweb.net/) - 卡片式背诵工具，可以用来背诵很多东西。 ![Freeware][Freeware Icon]
 - [gogs](https://gogs.io/) - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
@@ -152,19 +159,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Wireshark](https://www.wireshark.org/) - 一个网络协议分析工具。 [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
 - [Caddy](https://caddyserver.com/) - 轻量级支持 HTTP/2 的服务器。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - ~~[IDM](http://internetdownloadmanager.com/) - 下载器。~~
-- [EagleGet](http://www.eagleget.com/) - 免费下载器
+- ~~[EagleGet](http://www.eagleget.com/) - 免费下载器 ~~ 用Chrome自带的也没啥
 - [NetWorx](https://www.softperfect.com/products/networx/) - 流量监控工具。监控流量、连接等等，包括忽略某些流量的功能（忽略内网、IPv6）
 - [WinSshFs](https://github.com/Foreveryone-cz/win-sshfs/releases) - Windows 下的 sshfs 工具
 
 ### 电子邮件
 - ~~Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。~~
 - [Foxmail](http://www.foxmail.com/) - 微软的东西都是看上去挺好，用起来体验极差。最后还是用 Foxmail 好！
+- [YoMail](http://www.nextechat.com/) - 虽然貌似是用Electron做的，但是我还是用了起来。
 
 ### 数据恢复
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件，主要设计用于帮助恢复丢失的分区和 / 或使非引导磁盘重新启动
 
 ### 在线存储
 - [Google Drive](https://www.google.com/drive/download/) - 深深融入 Google 生态系统的云存储解决方案。（用来备份）
+- [Nextcloud](https://nextcloud.com/) - 自建云盘
 
 ### 开发者工具
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - 功能强大的任务管理工具 ![Freeware][Freeware Icon]
@@ -205,6 +214,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - zathura, zathura-pdf-poppler - 文档阅读器
 - nextcloud - 云盘
 - scrot - 截图
+- [rofi](https://github.com/DaveDavenport/rofi) - 启动器
 
 ### 中文
 - wqy-microhei,wqy-microhei-lite,wqy-zenhei,ttf-arphic-ukai,ttf-arphic-uming,adobe-source-han-sans-cn-fonts,adobe-source-code-pro-fonts,ttf-vista-fonts - 字体
@@ -234,7 +244,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Android
 
 ### 常用应用
-- Chrome、Google 地图、Google 翻译、Google 日历、Google 相册、Google Drive、Google 框架、科学杂志、SnapSeed - Google 全家桶
+- Chrome、Google 地图、Google 翻译、Google 日历、Google 相册、Google Drive、Google 框架、SnapSeed - Google 全家桶
 - 酷安、pixiv、ofo、Onenote、QQ、微信、Steam、bilibili、钉钉、支付宝
 
 ### 阅读
@@ -244,7 +254,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [一句](https://www.coolapk.com/apk/small.word) - 桌面显示一句话
 - [追书神器](https://www.coolapk.com/apk/com.ushaqi.zhuishushenqi) - 看小说
 - [NGA 玩家社区](https://www.coolapk.com/apk/gov.pianzong.androidnga) - NGA 客户端
-- [Smooth](https://play.google.com/store/apps/details?id=com.mzba.happy.laugh) - 微博客户端
+- ~~[Smooth](https://play.google.com/store/apps/details?id=com.mzba.happy.laugh) - 微博客户端~~ 现在直接用微博PWAs（增强型网页应用 Progressive Web Apps）了
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) - 漫画阅读器
 - [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly) - Feedly 客户端
 
@@ -257,7 +267,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) - 启动器
 - [MX 播放器](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - 播放器
 - Arity - 个人认为安卓最好用的计算器，不花哨。支持复数、支持各种计算以及 2D、3D 绘图，速度很快精度挺高。（真正为需要计算器的人设计的计算器）
-- [ArityMod](https://play.google.com/store/apps/details?id=ua.naiksoftware.aritymod) - GooglePlay 上只能搜到这个，貌似是上面那个的升级版（试用后发现并不好用）
 - [DayGram](https://play.google.com/store/apps/details?id=net.saltycrackers.daygram) - 每天日记一句话。简洁好用
 - [彩云天气](https://www.coolapk.com/apk/com.nowcasting.activity) - 精确到分钟的（夏天并不准）天气预报
 - [发条番茄钟](https://play.google.com/store/apps/details?id=net.phlam.android.clockworktomato) - 番茄时钟
@@ -271,19 +280,27 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [一个木函](https://www.coolapk.com/apk/com.One.WoodenLetter) - 实用小工具集合，以及网页 APP
 - [影梭](https://play.google.com/store/apps/details?id=com.github.shadowsocks) - 科学上网
 - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) - 压缩文件管理器
+- [思维导图](http://mindmm.com/) - 编辑思维导图，挺好用
 
 ### 美化
 - [薄暮微光](https://play.google.com/store/apps/details?id=com.urbandroid.lux) - 屏幕暗化、去蓝光
 - [Elun](https://play.google.com/store/apps/details?id=com.vertumus.elun) - 图标包
+- Nucleo UI - 图标主题
 - [靓晒](https://www.coolapk.com/apk/ooo.oxo.apps.materialize) - 图标生成工具
+- 搜图神器 - 壁纸搜索工具
 
 ### 游戏
 - [Charles](https://play.google.com/store/apps/details?id=com.crater.charles) - 减压射击小游戏。111% 是个优秀公司，只是广告比较多
 - [BBTan](https://play.google.com/store/apps/details?id=com.crater.bbtan) - 减压小游戏
+- [CCTAN](https://play.google.com/store/apps/details?id=com.crater.cctan)、[BBTAN](https://play.google.com/store/apps/details?id=com.crater.bbtan)等等来自111%的小游戏 - 弹球游戏，全部有毒~
 - [方块游戏](https://www.coolapk.com/game/com.lfeng.brickgame) - 曾经有过的游戏机。（当时都不需要说明书就会玩）
 - [Euclidea](https://play.google.com/store/apps/details?id=com.hil_hk.euclidea) - 几何证明游戏
 - [Loop](https://play.google.com/store/apps/details?id=com.balysv.loop) - 给强迫症玩的游戏
-- [纸牌游戏集合](https://play.google.com/store/apps/details?id=com.anoshenko.android.solitaires) - 250 多纸牌游戏
+- [ULTRAFLOW](https://play.google.com/store/apps/details?id=com.DSS.ULTRAFLOW)、[ULTRAFLOW2](https://play.google.com/store/apps/details?id=com.ULTRATEAM.ULTRAFLOW2) - 弹球游戏，碎片效果做的非常爽快，可惜关卡比较少
+- [minidash](https://play.google.com/store/apps/details?id=com.playcreek.MiniDash) - 类似超级食肉男孩的跳跃类小游戏，难度很高也挺好玩
+- [250+纸牌游戏合集](https://play.google.com/store/apps/details?id=com.anoshenko.android.solitaires) - 闲着的时候可能玩？
+- [euclidea](https://play.google.com/store/apps/details?id=com.hil_hk.euclidea) - 尺规作图游戏
+- 冒险与挖矿 - 放置类游戏，但是后面骗氪要素太多了。
 
 ### 桌面小部件
 - [Github Contributions Widget](https://play.google.com/store/apps/details?id=by.aleks.ghcwidget) - github 贡献桌面小部件
@@ -299,22 +316,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [微信弹幕](http://aidistan.github.io/browser-weixin-danmu/) - 将网页微信消息变为浏览器页面弹幕
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - 整个页面截屏成图片
 - [Google 输入工具](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - 网页输入法
-- [Stylish](https://userstyles.org/) - 定制网页 CSS
+- [Stylus](https://github.com/openstyles/stylus) - 定制网页 CSS
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - 浏览器脚本管理工具
 - [Library Sniffer for Google Chrome](https://chrome.google.com/webstore/detail/library-sniffer-for-googl/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) - 显示网页使用了什么 JS 库
 - [Google 文档](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - 使用 Chrome 查看 doc、ppt、xls
 - [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba) - 按照标题层级自动生成 TOC
-- [Clutter Free](https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf) - 删除重复标签页
+- [Clutter Free - Prevent duplicate tabs](https://chrome.google.com/webstore/detail/iipjdmnoigaobkamfhnojmglcdbnfaaf) - version 2018_531_5_9 - 删除重复标签页
 - [Mainichi](https://chrome.google.com/webstore/detail/dfekdjmdikicceaiokcmmchenpilglhn) - 设置新标签页为单词卡片
 - [Fatkun](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf) - 图片批量下载
 - [二箱](https://chrome.google.com/webstore/detail/kidibbfcblfbbafhnlanccjjdehoahep) - 以图搜图工具
-- [草榴游客神器](https://chrome.google.com/webstore/detail/blofeijggklkkamdbgmogbhfcmadnnne) - 如名字，支持番号、人名搜索
-- [bilibili 助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh) - bilibili 助手
+- [bilibili 助手](https://chrome.google.com/webstore/detail/kpbnombpnpcffllnianjibmpadjolanh) - bilibili 助手
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - 使用 vim 方式操作浏览器
 - [Octotree](https://github.com/buunguyen/octotree) - Github 显示文件列表
 - [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) - Github 增强
 - [EnhancedSteam](http://www.enhancedsteam.com/) - Steam 增强工具，包括历史价格、配置要求等
-- [Anki 划词制卡助手](https://chrome.google.com/webstore/detail/anki-%E5%88%92%E8%AF%8D%E5%88%B6%E5%8D%A1%E5%8A%A9%E6%89%8B/ajencmdaamfnkgilhpgkepfhfgjfplnn) - 主要用来翻译单词
+- [Anki 划词制卡助手](https://chrome.google.com/webstore/detail/ajencmdaamfnkgilhpgkepfhfgjfplnn) - 主要用来翻译单词
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告过滤
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - 语法检查等写作工具
 - [Wikiwand](http://www.wikiwand.com/) - Wikipedia 现代化！
@@ -328,6 +344,64 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Scroll With Mouse Plus](https://greasyfork.org/scripts/347-scroll-with-mouse-plus/code/Scroll%20with%20Mouse%20Plus.user.js) - 在右侧滚动条用鼠标上下移动代替滚轮
 - [Super preloader plus one](https://greasyfork.org/scripts/10433-super-preloaderplus-one/code/Super_preloaderPlus_one.user.js) - 自动翻页 + 预读
 - [下载一键通](https://greasyfork.org/scripts/2510-%E4%B8%8B%E8%BD%BD%E4%B8%80%E9%94%AE%E9%80%9A/code/%E4%B8%8B%E8%BD%BD%E4%B8%80%E9%94%AE%E9%80%9A.user.js) - 利用 sogou 浏览器下载一键通 API 下载某些需要权限的内容
+
+### 导出列表
+方法：
+1. 打开`chrome:\\system`复制列表
+2. 在vim中执行`%s/\(\S*\) : \(.*\) : \(.*\)/- [\2](https:\/\/chrome.google.com\/webstore\/detail\/\1) - \3/`
+
+已经出现的被窝手动删除了。
+
+- [Cent Browser 网上应用店](https://chrome.google.com/webstore/detail/ahfgeienlihckogmohjhadlkjgocpleb) - version 0_2
+- [Writefull](https://chrome.google.com/webstore/detail/aolaabonkiegkggfdgjjehchjmjfanng) - version 1_8_1
+- [CIRC](https://chrome.google.com/webstore/detail/bebigdkelppomhhjaaianniiifjbgocn) - version 0_6_8
+- [PageExpand](https://chrome.google.com/webstore/detail/bjnobgdfhefpilajplncgjjeopakpepc) - version 1_5_15
+- [Lighthouse](https://chrome.google.com/webstore/detail/blipmdconlkpinefehnmjammfjpmpbjk) - version 3_0_1
+- [草榴游客神器](https://chrome.google.com/webstore/detail/blofeijggklkkamdbgmogbhfcmadnnne) - version 1_16
+- [Separate Window](https://chrome.google.com/webstore/detail/cbgkkbaghihhnaeabfcmmglhnfkfnpon) - version 0_9_2
+- [小番茄](https://chrome.google.com/webstore/detail/cghomilbbfdmgfidkdinillpmdpdjgmm) - version 3_2_21
+- [Mendeley Importer](https://chrome.google.com/webstore/detail/dagcmkpagjlhakfdhnbomgmjdpkdklff) - version 2_0_46
+- [Jekyll Editor](https://chrome.google.com/webstore/detail/dfdkgbhjmllemfblfoohhehdigokocme) - version 2_0_3
+- [Typio Form Recovery](https://chrome.google.com/webstore/detail/djkbihbnjhkjahbhjaadbepppbpoedaa) - version 1_8_6
+- [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh) - version 4_6_0
+- [Google 日历](https://chrome.google.com/webstore/detail/ejjicmeblgpmajnghnpcppodonldlgfn) - version 4_5_10
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/fdpohaocaechififmbbbbbknoalclacl) - version 4_3
+- [Library Sniffer for Google Chrome](https://chrome.google.com/webstore/detail/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) - version 2_8_6
+- [Google文档、表格及幻灯片的Office编辑扩展程序](https://chrome.google.com/webstore/detail/gbkeegbaiigmenfmjfclcdgdpimamgkj) - version 123_2149_2151
+- [Google 文档的离线功能](https://chrome.google.com/webstore/detail/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - version 1_4
+- [Inbox by Gmail](https://chrome.google.com/webstore/detail/gkljgfmjocfalijkgoogmfffkhmkbgol) - version 1_0_0_1929
+- [OneNote Web Clipper](https://chrome.google.com/webstore/detail/gojbdfnpnhogfdgjbigejoaolejmgdhk) - version 3_8_0
+- [斗鱼HTML5播放器](https://chrome.google.com/webstore/detail/hbocinidadgpnbcamhjgfbgiebhpnmfj) - version 0_8_5
+- [Toby for Chrome](https://chrome.google.com/webstore/detail/hddnkoipeenegfoeaoibdmnaalmgkpip) - version 0_5_2
+- [Additor - The Simplest Bookmark & Highlighter](https://chrome.google.com/webstore/detail/hfllajanfnlimffhkjbondolipoimcgn) - version 1_5_7_7
+- [Google Keep - 记事和清单](https://chrome.google.com/webstore/detail/hmjkmjkepdijhoojdojkdfohbdgmmhki) - version 3_1_18265_1320
+- [Clutter Free - Prevent duplicate tabs](https://chrome.google.com/webstore/detail/iipjdmnoigaobkamfhnojmglcdbnfaaf) - version 2018_531_5_9
+- [简悦 - SimpRead](https://chrome.google.com/webstore/detail/ijllcpnolfcooahcekpamkbidhejabll) - version 1_1_1
+- [pakku：哔哩哔哩弹幕过滤器](https://chrome.google.com/webstore/detail/jklfcpboamajpiikgkbjcnnnnooefbhh) - version 8_9_2
+- [二箱](https://chrome.google.com/webstore/detail/kidibbfcblfbbafhnlanccjjdehoahep) - version 0_9_6_1
+- [马克飞象](https://chrome.google.com/webstore/detail/kidnkfckhbdkfgbicccmdggmpgogehop) - version 1_8_9
+- [CryptoTokenExtension](https://chrome.google.com/webstore/detail/kmendfapggjehodndflmmgagdbamhnfd) - version 0_9_73
+- [支付宝安全插件](https://chrome.google.com/webstore/detail/lapoiohkeidniicbalnfmakkbnpejgbi) - version 1_0_1
+- [Colors](https://chrome.google.com/webstore/detail/lhbgjlhhonbdjfdoiklbbkejcipkbnac) - version 2_1
+- [Smart TOC](https://chrome.google.com/webstore/detail/lifgeihcfpkmmlfjbailfpfhbahhibba) - version 0_3_23
+- [在线词典助手](https://chrome.google.com/webstore/detail/lppjdajkacanlmpbbcdkccjkdbpllajb) - version 0_7_1
+- [Google 输入工具](https://chrome.google.com/webstore/detail/mclkkofklkfljcocdinagocijmpgbhab) - version 5_8_0_2
+- [Cloud Print](https://chrome.google.com/webstore/detail/mfehgcgbbipciphmccgaenjidiccnmng) - version 0_1
+- [Chromium PDF Viewer](https://chrome.google.com/webstore/detail/mhjfbmdgcfjbbpaeojofohoefgiehjai) - version 1
+- [Google 绘图](https://chrome.google.com/webstore/detail/mkaakpdehdafacodkgkpghoibnmamcme) - version 1_1
+- [Save to Pocket](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj) - version 3_0_5_2
+- [RSS Subscription Extension（由 Google 提供）](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd) - version 2_2_4
+- [Moqups · Mockups, Wireframes & Prototyping](https://chrome.google.com/webstore/detail/nlfbhphohgafllkjnakmdppmmkjfbnke) - version 2_4_1
+- [ShareX](https://chrome.google.com/webstore/detail/nlkoigbdolhchiicbonbihbphgamnaoc) - version 1_0_1
+- [RegExp Download Organizer](https://chrome.google.com/webstore/detail/oamembonjndgangicfphlckkdmagpjlg) - version 0_2_3
+- [ZenHub for GitHub](https://chrome.google.com/webstore/detail/ogcgkffhplmphkaahpmffcafajaocjbd) - version 2_37_56
+- [Enhanced Steam](https://chrome.google.com/webstore/detail/okadibdjfemgnhjiembecghcbfknbfhg) - version 9_8_1
+- [Mosh](https://chrome.google.com/webstore/detail/ooiklbnjmhbcgemelgfhaeaocllobloj) - version 0_4_5
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif) - version 2_5_15
+- [测量标尺](https://chrome.google.com/webstore/detail/pemefhlbiinkcopbapnfghcnjhlgceof) - version 5_8_8
+- [Multi-highlight](https://chrome.google.com/webstore/detail/pfgfgjlejbbpfmcfjhdmikihihddeeji) - version 1_20
+- [Chrome Media Router](https://chrome.google.com/webstore/detail/pkedcjkdefgpdelpbcmbmeomcjbeemfm) - version 6618_312_0_2
+- [Secure Shell App](https://chrome.google.com/webstore/detail/pnhechapfaindjhompbnflcldabbghjo) - version 0_8_43
 
 ### 链接
 - [Windows 终端命令的 A-Z](http://ss64.com/nt/)
