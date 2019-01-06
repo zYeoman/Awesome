@@ -118,6 +118,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### 浏览器
 - [CentBrowser](https://www.centbrowser.com/) - Chromium 内核，可以完全替代 Chrome——包括各种插件也能用——的可以关闭 Direct Writer 方便 MacType 渲染的浏览器
+- [Mendeley](https://www.mendeley.com/) - 文献管理工具，带word插件。
 
 ### 个性化
 - [MacType](https://github.com/snowie2000/mactype) - Windows 字体渲染工具。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] （虽然总是和其他软件冲突但是就是离不开它。）
@@ -152,6 +153,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop) - 为 win10 虚拟桌面功能提供更多快捷键 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [sudo](https://github.com/mattn/sudo) - Go 语言实现的 Windows 下的 sudo 工具 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [qwertick](http://www.nattyware.com/qwertick.php) - 30KB 大小的一个按键发声软件。类似的还有 [Tickeys](http://www.yingdev.com/projects/tickeys) ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Pandownload](http://pandownload.com/) - 单文件百度网盘下载工具，速度挺快，支持代理
 
 ### 网络工具
 - [ShadowSocks](https://shadowsocks.org/) - 代理。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -162,11 +164,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - ~~[EagleGet](http://www.eagleget.com/) - 免费下载器 ~~ 用Chrome自带的也没啥
 - [NetWorx](https://www.softperfect.com/products/networx/) - 流量监控工具。监控流量、连接等等，包括忽略某些流量的功能（忽略内网、IPv6）
 - [WinSshFs](https://github.com/Foreveryone-cz/win-sshfs/releases) - Windows 下的 sshfs 工具
+- [Pandownload](http://pandownload.com/) - 单文件百度网盘下载工具，速度挺快，支持代理
+- [uTorrent](https://www.utorrent.com/) - BT下载做种工具
+- [nmap](https://nmap.org/) - 端口扫描工具
 
 ### 电子邮件
 - ~~Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。~~
 - [Foxmail](http://www.foxmail.com/) - 微软的东西都是看上去挺好，用起来体验极差。最后还是用 Foxmail 好！
-- [YoMail](http://www.nextechat.com/) - 虽然貌似是用Electron做的，但是我还是用了起来。
+- ~~[YoMail](http://www.nextechat.com/) - 虽然貌似是用Electron做的，但是我还是用了起来。~~
 
 ### 数据恢复
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件，主要设计用于帮助恢复丢失的分区和 / 或使非引导磁盘重新启动
@@ -591,6 +596,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### 包
 - [minibar](https://github.com/canassa/minibar) - Python 进度条工具
+- [termgraph](https://github.com/mkaz/termgraph) - 命令行图表
+- [configfy](https://github.com/mapa17/configfy) - 使用ini文件作为配置文件
 
 ### 命令行程序
 - [MagicWormhole](https://github.com/warner/magic-wormhole) - 不同电脑之间快速传文件
