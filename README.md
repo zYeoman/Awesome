@@ -95,6 +95,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [ScreenToGif](http://www.screentogif.com/) - gif 格式录屏工具，轻量绿色开源。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [ComicRack](http://comicrack.cyolito.com/software/windows/comicrack-for-windows) - Windows 漫画阅读器
 - [caesium](https://github.com/Lymphatus/caesium-clt) - JPG 图片压缩工具
+- [Metafile2EPS](https://wiki.lyx.org/Windows/MetafileToEPSConverter) - 将 Powerpoing 存储的 emf/wmf 格式图片转换成 Latex 使用的 EPS 格式图片。没有字体问题！![Freeware][Freeware Icon]（Inkscape 就会有字体乱码问题
+- [Inkscape](https://inkscape.org/) - 免费矢量图绘图工具，最近刚更新了 1.0 版本。![Freeware][Freeware Icon]
 
 ### 终端
 - [ConEmu](https://conemu.github.io/) - Windows 下的带 tab 的终端模拟器。[![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu ![Freeware][Freeware Icon] （重度依赖）
