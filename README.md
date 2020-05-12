@@ -208,6 +208,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - (g)vim
 - sudo
 - the_silver_searcher - ag
+- fsearch: linux 上的 everything
 
 ### 窗口
 - i3clock,i3status,py3status,i3-gaps,xorg,xorg-xinit - i3 窗口管理器相关
