@@ -111,6 +111,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Microsoft Office](http://www.office.com) - 微软自己的生产力套件。（OneNote 最强！）
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR 阅读器。 ![Freeware][Freeware Icon] （轻量好用！还可以看图片压缩包——漫画）
 - [Mendeley](https://www.mendeley.com/) - 免费文献管理软件，会监视文件夹内的 PDF 自动生成信息，非常好用！
+- [PDF 补丁丁](https://www.cnblogs.com/pdfpatcher/) - 修改合并 PDF 的小工具
 
 ### 编辑器
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim 是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
