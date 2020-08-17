@@ -69,6 +69,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### HighLight
 - [OneFont for OneNote](https://lxf.me/116) - 干掉 onenote 的沙雕默认英文输入法（即 Calibri）。我不是说 Calibri 不好，但是它和微软雅黑中文比太 TM 小了，小到看不见，非常突兀。
+- [解锁网易云灰色歌曲](https://github.com/meng-chuan/Unlock-netease-cloud-music) - 通过代理连接 qq 音乐等方式，让网易云灰色歌曲回归。
 
 ### 音频
 - [Foobar2000](http://www.foobar2000.org/) - Windows 版的免费音频播放器，支持各种各样的音频格式，并且有很多很酷的特色功能。（唯一能正常播放我母盘歌曲的软件）![Freeware][Freeware Icon]
