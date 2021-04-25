@@ -92,7 +92,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### 图片
 - [ShareX](https://getsharex.com) - 截图上传工具。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon] （好用，并且设置项非常多，可以轻松自己配置）
 - [Paint.net](http://www.getpaint.net/index.html) - 你怎么能忍受没有 paint.net 的生活？ ![Freeware][Freeware Icon] （就是一个画图）
-- ~~[HoneyView](http://www.bandisoft.com/honeyview/) - 图片查看工具。~~ 卡卡的
 - [nomacs](https://nomacs.org/) - 图片查看工具。包括编辑器，不卡！ ![Freeware][Freeware Icon]
 - [IrfanView](http://www.irfanview.com/) - 图片查看工具。曾经用的。 ![Freeware][Freeware Icon]
 - [ImageMagick](https://www.imagemagick.org/script/index.php) - 命令行处理工具
@@ -177,9 +176,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [nmap](https://nmap.org/) - 端口扫描工具
 
 ### 电子邮件
-- ~~Microsoft 邮件 - Win10 自带邮件，不翻墙用 Gmail。~~
-- [Foxmail](http://www.foxmail.com/) - 微软的东西都是看上去挺好，用起来体验极差。最后还是用 Foxmail 好！
-- ~~[YoMail](http://www.nextechat.com/) - 虽然貌似是用 Electron 做的，但是我还是用了起来。~~
+- [Foxmail](http://www.foxmail.com/) - 最后还是用 Foxmail 好！
 
 ### 数据恢复
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件，主要设计用于帮助恢复丢失的分区和 / 或使非引导磁盘重新启动
@@ -630,6 +627,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [minibar](https://github.com/canassa/minibar) - Python 进度条工具
 - [termgraph](https://github.com/mkaz/termgraph) - 命令行图表
 - [configfy](https://github.com/mapa17/configfy) - 使用 ini 文件作为配置文件
+- [fire](https://github.com/google/python-fire) - 把 Python 函数变成命令行接口
+- [better-exceptions](https://github.com/Qix-/better-exceptions) - 更好的错误处理
+- [rich](https://github.com/willmcgugan/rich) - 更好的 print 函数
 
 ### 命令行程序
 - [MagicWormhole](https://github.com/warner/magic-wormhole) - 不同电脑之间快速传文件
